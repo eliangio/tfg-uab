@@ -1,5 +1,2 @@
 project:
-  type: default
-  output-dir: docs
-  resources:
-    - .nojekyll
+  title: "TFG 2026/27"

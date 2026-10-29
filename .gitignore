@@ -1,6 +1,8 @@
 .quarto/
-*_files/
-.DS_Store
-
 /.quarto/
+*_files/
+*.html
+.DS_Store
+_quarto_internal_scss_error.scss
+
 **/*.quarto_ipynb

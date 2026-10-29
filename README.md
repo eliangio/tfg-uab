@@ -2,35 +2,34 @@
 
 Quarto (reveal.js) slides for the first meeting with TFG students (Facultat d'Economia i Empresa, UAB).
 
-| Language | Source | Rendered |
-|---|---|---|
-| Español | `index.qmd` | `docs/index.html` |
-| English | `index-en.qmd` | `docs/index-en.html` |
+| Language | Source |
+|---|---|
+| Español | `index.qmd` |
+| English | `index-en.qmd` |
 
-The title slide of each version links to the other one.
+Each title slide links to the other version.
 
 ## Files
 
 - `index.qmd`, `index-en.qmd`: the slides. One `##` heading is one slide. Speaker notes are in `::: notes` blocks (press `S` in the browser). Keep both files in sync when you edit.
-- `custom.scss`: small additions on top of the theme (tables, four-phase layout, evaluation bar, callouts).
-- `fonts.scss`: Roboto embedded as base64, so the deck looks the same on every machine (SIL Open Font License, from Google Fonts).
-- `_extensions/grantmcdermott/clean/`: the *clean* reveal.js theme by Grant McDermott, MIT licence (see the `LICENSE` file there).
-- `docs/`: rendered output, one self-contained HTML file per language, ready for GitHub Pages.
+- `theme.scss`: the look. Based on the *clean* theme by Grant McDermott (MIT licence, notice kept in the file header), plus the extra components of these slides and Roboto embedded as base64.
+- `_quarto.yml`: two lines that make Quarto treat both decks as one project.
 
-## Editing notes
-
-- Anything marked *(propuesta)* / *(proposal)* in red is the tutor's own suggestion, not a faculty rule: the internal deadlines and the "My rules" column.
-- Official dates and rules come from the faculty calendar, the Normativa and the course guide, all linked from the slides.
+The rendered HTML is not stored on `main`; it lives on the `gh-pages` branch, which Quarto creates.
 
 ## Preview and build
 
 ```bash
 quarto preview index.qmd      # live preview (use index-en.qmd for English)
-quarto render                 # writes docs/index.html and docs/index-en.html
+quarto render                 # writes index.html and index-en.html (git-ignored)
 ```
 
-Add `?print-pdf` to the URL (for example `docs/index.html?print-pdf`) and print to PDF from Chrome for a handout.
+Add `?print-pdf` to the URL and print to PDF from Chrome for a handout.
 
-## GitHub Pages
+## Publish
 
-*Settings → Pages → Build and deploy → Deploy from a branch → `main` / `/docs`*. The slides are then served at `https://<user>.github.io/<repo>/` (Spanish) and `https://<user>.github.io/<repo>/index-en.html` (English).
+```bash
+quarto publish gh-pages --no-prompt
+```
+
+This renders both decks and updates the `gh-pages` branch. In the repo settings use *Pages → Build and deploy → Deploy from a branch → `gh-pages` / `(root)`*. The slides are then at `https://<user>.github.io/<repo>/` (Spanish) and `https://<user>.github.io/<repo>/index-en.html` (English).

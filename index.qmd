@@ -13,7 +13,7 @@ date-format: "MMMM YYYY"
 lang: es
 format:
   revealjs:
-    theme: [default, _extensions/grantmcdermott/clean/clean.scss, fonts.scss, custom.scss]
+    theme: [default, theme.scss]
     margin: 0.05
     slide-number: true
     transition: fade
