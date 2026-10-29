@@ -1,5 +1,6 @@
 .quarto/
 /.quarto/
+_site/
 *_files/
 *.html
 .DS_Store

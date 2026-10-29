@@ -13,7 +13,7 @@ Each title slide links to the other version.
 
 - `index.qmd`, `index-en.qmd`: the slides. One `##` heading is one slide. Speaker notes are in `::: notes` blocks (press `S` in the browser). Keep both files in sync when you edit.
 - `theme.scss`: the look. Based on the *clean* theme by Grant McDermott (MIT licence, notice kept in the file header), plus the extra components of these slides and Roboto embedded as base64.
-- `_quarto.yml`: two lines that make Quarto treat both decks as one project.
+- `_quarto.yml`: three lines that make Quarto treat both decks as one website project (needed for `quarto publish`).
 
 The rendered HTML is not stored on `main`; it lives on the `gh-pages` branch, which Quarto creates.
 
@@ -21,7 +21,7 @@ The rendered HTML is not stored on `main`; it lives on the `gh-pages` branch, wh
 
 ```bash
 quarto preview index.qmd      # live preview (use index-en.qmd for English)
-quarto render                 # writes index.html and index-en.html (git-ignored)
+quarto render                 # writes _site/index.html and _site/index-en.html (git-ignored)
 ```
 
 Add `?print-pdf` to the URL and print to PDF from Chrome for a handout.
