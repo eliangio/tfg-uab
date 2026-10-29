@@ -1,0 +1,476 @@
+---
+title: "TFG 2026/27"
+subtitle: "First meeting"
+author:
+  - name: Elian Giordano
+    affiliations:
+      - name: "Institut d'Economia de Barcelona (IEB)"
+      - name: "Facultat d'Economia i Empresa (UAB)"
+      - name: "Journal of Political Economy (JPE)"
+institute: "[Versión en español](index.html)"
+date: "2026-10-28"
+date-format: "MMMM YYYY"
+lang: en
+format:
+  revealjs:
+    theme: [default, _extensions/grantmcdermott/clean/clean.scss, fonts.scss, custom.scss]
+    margin: 0.05
+    slide-number: true
+    transition: fade
+    hash: true
+    footer: "[Faculty website: TFG 2026/27](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)"
+    embed-resources: true
+---
+
+## About me
+
+::: {.columns}
+::: {.column width="52%"}
+**Elian Giordano**
+
+- [Institut d'Economia de Barcelona (IEB)](https://ieb.ub.edu)
+- [Facultat d'Economia i Empresa](https://www.uab.cat/economia-empresa/), UAB
+- [Journal of Political Economy (JPE)](https://www.journals.uchicago.edu/journals/jpe)
+:::
+::: {.column width="48%"}
+**Areas of specialization**
+
+- Economic development
+- Economic history and migration
+- Inequality and social mobility
+- Impact evaluation
+:::
+:::
+
+**Education**
+
+- Master's in Economic Development, [UC3M](https://www.uc3m.es) and [Lund University](https://www.lunduniversity.lu.se)
+- Bachelor's in International Relations, [Unimi](https://www.unimi.it)
+
+
+## The phases of a TFG
+
+::: {.steps}
+::: {.step}
+[1]{.n}
+[Research question]{.t}
+[Oct–Nov]{.when}
+
+- What you want to explain
+- Objective and hypothesis
+- Focused and feasible
+:::
+::: {.step}
+[2]{.n}
+[Literature review]{.t}
+[Nov–Jan]{.when}
+
+- What is already known
+- What is missing: your contribution
+:::
+::: {.step}
+[3]{.n}
+[Methodology]{.t}
+[Dec–Feb]{.when}
+
+- Data: sources and variables
+- Analysis technique
+:::
+::: {.step}
+[4]{.n}
+[Data analysis]{.t}
+[Feb–May]{.when}
+
+- Results
+- Discussion and limitations
+- Conclusions
+:::
+:::
+
+::: notes
+Source: the "typical work calendar" from the coordination session (October: objective and planning; Nov–Dec: exploring the topic, literature, sources, methodology; Feb–Mar: analytical part; Apr–May: wrap-up). The months for each phase are indicative.
+:::
+
+## Structure of the TFG (1/2)
+
+::: {.columns}
+::: {.column width="50%"}
+**Cover page**
+
+- Title and subtitle (separated by a colon)
+- Author and supervisor
+- Degree and faculty
+- Submission date
+- [Official Faculty template](https://drive.google.com/file/d/1A0-6WxIbDb9bYunp2u4u31EJoQit5PXY/view?usp=sharing)
+:::
+::: {.column width="50%"}
+**Abstract and keywords**
+
+- 200-500 words
+- 3-10 keywords
+- Thesis language (+ English)
+
+**Acknowledgements**
+
+- Supervisor and collaborators
+
+**Table of contents**
+
+- Chapters with page numbers
+:::
+:::
+
+::: notes
+Source: UAB Library guide on the structure of an academic work (cover, abstract and keywords, acknowledgements, table of contents). The cover must follow the template in Annex 1 of the Regulations (Normativa). If there are appendices, label them clearly and number them.
+:::
+
+## Structure of the TFG (2/2)
+
+::: {.columns}
+::: {.column width="55%"}
+**Introduction**
+
+- Motivation, objective, methodology and hypothesis
+
+**Main body**
+
+- Chapters and sections
+- Literature, data and method, results
+- Ends with the **conclusions**
+:::
+::: {.column width="45%"}
+**Bibliography**
+
+- Ordered list of sources
+- Reference manager
+
+**Appendices**
+
+- Numbered
+- Includes the **AI-use appendix**
+:::
+:::
+
+**Length:** 8,000–10,000 words ([Regulations](https://www.uab.cat/doc/DOC_normativaTFG25-26): about 25 pages)
+
+::: notes
+Source: UAB Library guide (introduction, main body, bibliography) and the coordination session (8,000–10,000 words of main text, including graphs, tables and bibliography; the Regulations suggest about 25 pages). Breaking the main body into literature, data and method, and results is the tutor's own suggestion.
+:::
+
+## Research question
+
+- **Specific**
+- With a defined **period** and **place**
+- With accessible **data**
+- **Relevant**: it adds something
+- **Feasible** before May
+
+::: {.small .muted}
+They often start with "What effect did…?", "How has … changed?" or "What explains…?"
+:::
+
+## Examples of questions
+
+| Topic | Specific question | Type |
+|----------------------|----------------------------------------------------|-----------|
+| Historical migration | What role did migrant networks play in emigration from the Spanish provinces to the Americas between 1880 and 1930? | Explanatory |
+| Colonial history and wealth | Did forced labour in Peru's colonial mines have persistent effects on household consumption today? | Causal |
+| Climate and migration | Did droughts increase internal migration in northeast Brazil between 1990 and 2020? | Causal |
+
+::: {.callout-tip title="For inspiration"}
+Read excellent TFGs from the Faculty in the [DDD](https://ddd.uab.cat/collection/facecoemptfg): real questions, structure and length.
+:::
+
+::: notes
+One example per theme. They are indicative, not a closed list: each student chooses the specific topic, period, geography and method. Full titles of the three themes: "The economic determinants of historical migration: lessons from the era of mass migration", "Colonial history and contemporary wealth: the roots of economic inequality" and "Exposure to climate change and migration".
+:::
+
+## Finding literature
+
+::: {.columns}
+::: {.column width="45%"}
+**Where**
+
+- [Google Scholar](https://scholar.google.com)
+- [Scopus](https://www.scopus.com)
+- [RePEc / IDEAS](https://ideas.repec.org)
+- [SSRN](https://www.ssrn.com) and [NBER](https://www.nber.org/papers)
+- [ResearchRabbit](https://www.researchrabbit.ai)
+- [UAB Library](https://www.uab.cat/biblioteques)
+:::
+::: {.column width="55%"}
+**How**
+
+- Start with **3–5 key papers**
+- Follow their references… and who cites them
+- Read: abstract → introduction → conclusions
+- A **reading table**: question, data, method, result
+- Keep everything in a **reference manager**: [Mendeley (UAB)](https://www.uab.cat/web/estudia-i-investiga/mendeley-institucional-1345718283901.html) or [Zotero](https://www.zotero.org)
+:::
+:::
+
+::: notes
+The UAB Library course (MO86830, Campus Virtual) teaches how to search for information, cite and write an academic work. Check Scopus access from the UAB network. ResearchRabbit helps explore citation networks starting from a few key papers (who cites whom); always check that every reference exists.
+:::
+
+## Formulating the hypothesis
+
+- A **testable** statement: it could turn out to be false
+- Says **which variable affects which**, and in what direction
+- Rests on **theory or literature**
+
+::: {.callout-note title="Example"}
+**Question:** Did the 2019 minimum wage increase reduce youth employment?
+
+**Hypothesis:** the increase reduced employment among young people with wages close to the minimum.
+:::
+
+::: {.small .muted}
+In a theoretical review: objectives and a guiding question instead of a hypothesis.
+:::
+
+## Types of analysis
+
+- **Critical review** of the literature
+- **Descriptive**: trends and comparisons
+- **Regression** (econometrics)
+- **Causal inference**: difference-in-differences, instrumental variables, regression discontinuity
+- **Case study** (qualitative)
+- **Modelling** or simulation
+
+::: {.small .muted}
+The method depends on the question and the data. Software to be agreed: [Stata](https://www.stata.com), [R](https://www.r-project.org) or [Python](https://www.python.org).
+:::
+
+::: notes
+Regulations §7.1: theoretical orientation (critical review + own analysis) or applied orientation (hypotheses grounded in a theoretical framework, tested with the techniques learned in the degree).
+:::
+
+## How to cite
+
+::: {.columns}
+::: {.column width="45%"}
+- **One style**: [Harvard](https://ddd.uab.cat/pub/guibib/111829/modelharvard_a2025.pdf) or [Chicago](https://ddd.uab.cat/record/112365)
+- **Alphabetical** list
+- In the text: (Card and Krueger, 1994)
+- Cited = in the list
+- Online: DOI or URL + **access date**
+:::
+::: {.column width="55%"}
+::: {.refs}
+Alonso, J.A. ed., 2005. Lecciones sobre economía mundial: introducción al desarrollo y a las relaciones económicas internacionales. 2nd ed. Madrid: Civitas.
+
+Card, D. and Krueger, A.B., 1994. [Minimum wages and employment: a case study of the fast-food industry in New Jersey and Pennsylvania](https://ideas.repec.org/a/aea/aecrev/v84y1994i4p772-93.html). *American Economic Review*, 84(4), pp.772-793.
+:::
+:::
+:::
+
+::: {.callout-tip title="My advice"}
+**Cite as you download**: save the reference when you download the paper, source or data. Otherwise you will forget where it came from.
+:::
+
+::: notes
+Format follows the Harvard guide (Anglia Ruskin version) from the UAB Library, July 2025 edition; there is also a Chicago guide (July 2026 edition). The first example is the book example from the guide itself; the article was checked on RePEc and NBER. The Faculty does not prescribe a citation style, so the choice is agreed with the supervisor. AI use is not cited in the bibliography: it goes in the appendix (Faculty rule).
+:::
+
+## Avoiding plagiarism
+
+- **Rewrite** the text in your own words, and still cite the source
+- Literal copy: **quotation marks** and author, year, page
+- Literal quotes of **200 words at most**
+- Also cite **tables, graphs and images**
+
+::: {.callout-important title="Plagiarism"}
+**Copying without citing: grade 0 and possible sanctions.**
+:::
+
+::: {.callout-tip title="How to avoid it"}
+**UAB Library course (MO86830)**: [enrolment](https://cv.uab.cat/protected/inscripcions.jsp)
+:::
+
+::: notes
+Source: Regulations §7.3 (plagiarism: appropriating an idea, datum or content without citing its author; copying paragraphs, tables, images or graphs without citing the source; quotes longer than 200 words are not accepted; grade zero plus the sanctions of UAB and the Faculty). The Faculty checks the originality of submitted TFGs (sampling 24–28 May). Citing author, year and page is standard practice for literal quotes.
+:::
+
+## AI: what yes, what no
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Yes"}
+- **Reviewing the text**
+- **Writing code**
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-important title="No"}
+- **Bibliography**: it invents references
+- **Writing the text**: it can be detected
+:::
+:::
+:::
+
+::: {.callout-note title="Key idea"}
+**AI is an additional reviewer, not the one doing the work.**
+:::
+
+::: notes
+Tutor's criterion: AI is useful for reviewing (grammar, clarity, coherence) and for help with code; not for the bibliography (AI invents plausible-looking citations; always check that every reference exists) and not for writing. The Regulations (§7.3) state that the Faculty uses an application to check the originality of submitted TFGs.
+:::
+
+## AI: the university's rule
+
+- Only for tasks **approved by the supervisor**
+- **Never** for entire sections
+- Every use goes in an **appendix**: tool + exact prompts
+- Not declaring it: **academic misconduct**
+
+::: {.callout-important title="Consequence"}
+**Fail (0) and possible sanctions.**
+:::
+
+::: {.small .muted}
+Source: [Regulations](https://www.uab.cat/doc/DOC_normativaTFG25-26), section 7.3, and [course guide](https://apps.uab.cat/guies/public/html/2026/assignatura/102461/en).
+:::
+
+::: notes
+Source: coordination session (AI rules), course guide (using AI without mentioning it and informing the supervisor = misconduct, Regulations art. 7.3) and Regulations §7.3 (forgery and plagiarism = grade zero plus sanctions). The coordination session also says that not declaring it can mean a partial or total deduction from the grade, or disciplinary measures. Anti-plagiarism sampling: 24–28 May.
+:::
+
+## How we work
+
+::: {.columns}
+::: {.column width="40%"}
+**Official rules**
+
+- **4 meetings**: 3 follow-ups + the defence
+- The initiative is **yours**
+- After each meeting: **summary in [TFE](https://tfe.uab.cat)**
+- Work plan agreed after meeting 2
+:::
+::: {.column width="60%"}
+**My rules** [(proposal)]{.alert}
+
+- Material **48 h before**
+- Each meeting ends with **tasks and a date**
+- Questions **by email only**
+  - Urgent? Copy my personal email (eliangiordano7@gmail.com)
+- Drafts in a **shared document**: [Google Docs](https://docs.google.com) or [Overleaf](https://www.overleaf.com)
+- Tell me early if you get stuck
+:::
+:::
+
+::: notes
+Source: Regulations §5, §7.2; coordination session (communication with the supervisor: the initiative must come from the student). The rules in the right-hand column are the tutor's proposal. The shared document is for feedback while drafting; the official submission is still the PDF in TFE.
+:::
+
+## The TFG website
+
+::: {.columns}
+::: {.column width="50%"}
+**[Faculty website](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)**
+
+- [Calendar](https://www.uab.cat/doc/DocCalendariTFGFEiE_26-27)
+- [Regulations](https://www.uab.cat/doc/DOC_normativaTFG25-26)
+- [Course guide](https://apps.uab.cat/guies/public/html/2026/assignatura/102461/en)
+:::
+::: {.column width="50%"}
+**[TFE](https://tfe.uab.cat)**
+
+- Summary after each meeting
+- PDF submissions
+- Posters and grades
+:::
+:::
+
+::: {.callout-tip title="Recommended course: enrol"}
+**MO86830**: Tools and resources the UAB libraries offer for your academic work. [Enrolment in the Campus Virtual](https://cv.uab.cat/protected/inscripcions.jsp)
+:::
+
+::: notes
+TFE access uses your NIU. After the submission deadline the document cannot be modified (Regulations §5). The enrolment link asks for your UAB account. The course title is in Spanish: "Herramientas y recursos que te ofrecen las bibliotecas UAB para realizar tu trabajo académico".
+:::
+
+## Official dates
+
+| When | What |
+|---|---|
+| 21 Oct – 6 Nov | **Meeting 1** |
+| ≤ 4 Dec | **Meeting 2** |
+| ≤ 22 Feb | **Intermediate delivery** (draft, PDF) |
+| ≤ 16 Apr | **Meeting 3** |
+| **19 May, 23:59** | **Final delivery** (PDF) |
+| 20, 21, 24, 25 May | **Oral defence** with the supervisor |
+| 18, 21, 22 Jun | **Poster** sessions (optional) |
+
+::: {.small .muted}
+Posters: confirm by 2 Jun and upload the PDF by 8 Jun. Source: [official calendar](https://www.uab.cat/doc/DocCalendariTFGFEiE_26-27).
+:::
+
+::: notes
+Source: TFG activity calendar 2026/27 (ordinary June call). Supervisor's grades: ≤ 28 May. Anti-plagiarism sampling: 24–28 May. Grade records: until 28 Jun.
+:::
+
+## My internal dates [(proposal)]{.alert}
+
+| Date | What you send me | Official |
+|---|---|---|
+| Fri 20 Nov | UAB Library course (MO86830) | Before meeting 2 |
+| **Fri 27 Nov** | **TFG structure**: question, hypothesis, method, data, outline | Meeting 2 ≤ 4 Dec |
+| Fri 22 Jan | Literature and data | — |
+| Mon 15 Feb | Intermediate draft | ≤ 22 Feb |
+| Fri 9 Apr | Results | Meeting 3 ≤ 16 Apr |
+| Wed 5 May | Complete draft | — |
+| Fri 14 May | **Final version** | 19 May |
+| Mon 17 May | Rehearsed oral presentation | 20–25 May |
+
+::: notes
+All internal dates are the tutor's proposal and can be edited. Weekdays checked against the 2026/27 calendar.
+:::
+
+## Evaluation
+
+::: {.bar}
+::: {.seg .s1 style="flex:15"}
+Intermediate<br>**15%**
+:::
+::: {.seg .s2 style="flex:65"}
+Final report<br>**65%**
+:::
+::: {.seg .s3 style="flex:20"}
+Oral defence<br>**20%**
+:::
+:::
+
+- Supervisor's grade out of 10
+- On the record, **maximum 7.0**
+- With 7.0: **posters** (optional) to raise your grade
+- Only **excellent** TFGs are published in the [DDD](https://ddd.uab.cat)
+
+::: {.small .muted}
+Source: [Regulations](https://www.uab.cat/doc/DOC_normativaTFG25-26), section 8.
+:::
+
+::: notes
+Source: Regulations §8.2 and §8.3; course guide (from 6.95 upwards a 7.0 is recorded). The poster committee can only lower a grade below 7 if it finds misconduct; if you take part, its grade is final. Note: the footer of the rubric (Annex 2) mentions 6.85 and the coordination session 6.9; 6.95 from the course guide is used. Grade review: reasoned request to the supervisor by email, 10 days (Regulations §8.4).
+:::
+
+## For meeting 2: to-do list
+
+- [ ] Choose a **specific topic**, period and geography
+- [ ] Write the **research question** and the **hypothesis**
+- [ ] Read **3–5 key papers**
+- [ ] Identify the **data** and the **method**
+- [ ] Propose a provisional **outline**
+- [ ] Take the **Library course** (MO86830)
+- [ ] Write **today's summary in TFE**
+- [ ] **Send me everything by 27 November**
+
+::: {.small .muted}
+Meeting 2: by 4 December at the latest.
+:::
+
+::: notes
+Source: official calendar (meeting 2 ≤ 4 Dec) and Regulations §5 (summary in TFE after each meeting). 27 November is the internal date proposed by the tutor.
+:::
+
+# Questions? {background-color="#40666e"}

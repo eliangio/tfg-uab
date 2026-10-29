@@ -1,0 +1,70 @@
+/*-- scss:rules --*/
+
+// Fonts, colours and the root size come from the clean theme (Roboto, 32px).
+// Only two text sizes are used on top of the body size: 100% and .75em.
+
+.reveal a {
+  text-decoration: underline;
+  text-underline-offset: .15em;
+}
+
+.small { font-size: .75em; }
+.muted { color: #5b6776; }
+
+// Tables
+.reveal table { font-size: .75em; width: 100%; margin: .3em 0; font-weight: lighter; }
+.reveal table th {
+  font-weight: normal;
+  color: $accent;
+  text-align: left;
+  border-bottom: 2px solid $accent;
+  padding: .3em .6em;
+}
+.reveal table td {
+  border-bottom: 1px solid #e3e8ee;
+  padding: .3em .6em;
+  vertical-align: top;
+}
+
+// Four phases
+.steps { display: grid; grid-template-columns: repeat(4, 1fr); gap: .8em; margin-top: .4em; }
+.step { border-top: 4px solid $accent; padding-top: .3em; }
+.step .n { display: block; font-weight: lighter; font-size: 1.6em; color: $accent; line-height: 1; }
+.step .t { display: block; font-weight: lighter; line-height: 1.15; margin-top: .1em; }
+.step .when { display: block; font-size: .75em; font-style: italic; color: #5b6776; margin: .2em 0 .3em; }
+.step ul { font-size: .75em; }
+
+// Evaluation bar
+.bar { display: flex; width: 100%; height: 4.2em; margin: .5em 0 .8em; }
+.bar .seg {
+  display: flex; flex-direction: column; justify-content: center; align-items: center;
+  color: #fff; font-size: .8em; line-height: 1.2; text-align: center; font-weight: lighter;
+}
+.bar .seg b { font-size: 1.5em; font-weight: normal; }
+.bar .s1 { background: #4c9cb3; }
+.bar .s2 { background: $accent; }
+.bar .s3 { background: #0a4a5e; }
+
+// Reference list
+.refs { font-size: .75em; font-weight: lighter; }
+.refs p { padding-left: 1.6em; text-indent: -1.6em; margin: .4em 0; }
+
+// Callouts: Quarto default style (icon, light header), body at the same size as the text
+.reveal .slides section div.callout { font-size: 1em; }
+.reveal div.callout.callout-style-default div.callout-title { font-weight: normal; }
+.reveal .callout .callout-body-container p { font-weight: lighter; }
+.reveal .callout .callout-body-container strong { font-weight: normal; }
+.reveal .callout .callout-body-container ul { margin-bottom: 0; }
+
+// Footer and slide number stay readable on dark slides (closing slide)
+.reveal.has-dark-background .footer,
+.reveal.has-dark-background .footer a,
+.reveal.has-dark-background .slide-number { color: #fff; }
+
+// Language link on the title slide
+#title-slide .quarto-title-affiliation a {
+  color: $accent;
+  text-decoration: underline;
+  font-style: normal;
+  font-weight: normal;
+}

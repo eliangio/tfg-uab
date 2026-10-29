@@ -1,0 +1,465 @@
+---
+title: "TFG 2026/27"
+subtitle: "Primera reunión"
+author:
+  - name: Elian Giordano
+    affiliations:
+      - name: "Institut d'Economia de Barcelona (IEB)"
+      - name: "Facultat d'Economia i Empresa (UAB)"
+      - name: "Journal of Political Economy (JPE)"
+institute: "[English version](index-en.html)"
+date: "2026-10-28"
+date-format: "MMMM YYYY"
+lang: es
+format:
+  revealjs:
+    theme: [default, _extensions/grantmcdermott/clean/clean.scss, fonts.scss, custom.scss]
+    margin: 0.05
+    slide-number: true
+    transition: fade
+    hash: true
+    footer: "[Web de la Facultat: TFG 2026/27](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)"
+    embed-resources: true
+---
+
+## Quién soy
+
+::: {.columns}
+::: {.column width="52%"}
+**Elian Giordano**
+
+- [Institut d'Economia de Barcelona (IEB)](https://ieb.ub.edu)
+- [Facultat d'Economia i Empresa](https://www.uab.cat/economia-empresa/), UAB
+- [Journal of Political Economy (JPE)](https://www.journals.uchicago.edu/journals/jpe)
+:::
+::: {.column width="48%"}
+**Áreas de especialización**
+
+- Desarrollo económico
+- Historia económica y migración
+- Desigualdad y movilidad social
+- Evaluación de impacto
+:::
+:::
+
+**Formación**
+
+- Máster en Desarrollo Económico, [UC3M](https://www.uc3m.es) y [Lund University](https://www.lunduniversity.lu.se)
+- Grado en Relaciones Internacionales, [Unimi](https://www.unimi.it)
+
+
+## Las fases de un TFG
+
+::: {.steps}
+::: {.step}
+[1]{.n}
+[Pregunta de investigación]{.t}
+[Oct–nov]{.when}
+
+- Qué queréis explicar
+- Objetivo e hipótesis
+- Acotada y viable
+:::
+::: {.step}
+[2]{.n}
+[Revisión de literatura]{.t}
+[Nov–ene]{.when}
+
+- Qué se sabe ya
+- Qué falta: vuestra aportación
+:::
+::: {.step}
+[3]{.n}
+[Metodología]{.t}
+[Dic–feb]{.when}
+
+- Datos: fuentes y variables
+- Técnica de análisis
+:::
+::: {.step}
+[4]{.n}
+[Análisis de datos]{.t}
+[Feb–may]{.when}
+
+- Resultados
+- Discusión y límites
+- Conclusiones
+:::
+:::
+
+## Estructura del TFG (1/2)
+
+::: {.columns}
+::: {.column width="50%"}
+**Portada**
+
+- Título y subtítulo (con dos puntos)
+- Autor/a y tutor/a
+- Titulación y centro
+- Fecha de entrega
+- [Modelo oficial de la Facultat](https://drive.google.com/file/d/1A0-6WxIbDb9bYunp2u4u31EJoQit5PXY/view?usp=sharing)
+:::
+::: {.column width="50%"}
+**Resumen y palabras clave**
+
+- 200-500 palabras
+- 3-10 palabras clave
+- Lengua del trabajo (+ inglés)
+
+**Agradecimientos**
+
+- Tutor y colaboradores
+
+**Índice**
+
+- Capítulos con página
+:::
+:::
+
+## Estructura del TFG (2/2)
+
+::: {.columns}
+::: {.column width="55%"}
+**Introducción**
+
+- Motivación, objetivo, metodología e hipótesis
+
+**Cuerpo del trabajo**
+
+- Capítulos y apartados
+- Literatura, datos y método, resultados
+- Acaba con las **conclusiones**
+:::
+::: {.column width="45%"}
+**Bibliografía**
+
+- Lista ordenada de las fuentes
+- Gestor de referencias
+
+**Anexos**
+
+- Numerados
+- Incluye el **apéndice de uso de IA**
+:::
+:::
+
+**Extensión:** 8.000–10.000 palabras ([Normativa](https://www.uab.cat/doc/DOC_normativaTFG25-26): unas 25 páginas)
+
+
+## Pregunta de investigación
+
+- **Específica**
+- Con **periodo** y **lugar** definidos
+- Con **datos** accesibles
+- **Relevante**: aporta algo
+- Abordable **antes de mayo**
+
+::: {.small .muted}
+Suelen empezar por «¿Qué efecto tuvo…?», «¿Cómo ha cambiado…?» o «¿Qué explica…?»
+:::
+
+## Ejemplos de preguntas
+
+| Tema | Pregunta concreta | Tipo |
+|----------------------|----------------------------------------------------|-----------|
+| Migración histórica | ¿Qué papel jugaron las redes de migrantes en la emigración de las provincias españolas a América entre 1880 y 1930? | Explicativa |
+| Historia colonial y riqueza | ¿Dejó el trabajo forzado en las minas coloniales de Perú efectos persistentes sobre el consumo actual de los hogares? | Causal |
+| Clima y migración | ¿Aumentaron las sequías la migración interna en el nordeste de Brasil entre 1990 y 2020? | Causal |
+
+::: {.callout-tip title="Para inspiraros"}
+Leed TFG excelentes de la Facultat en el [DDD](https://ddd.uab.cat/collection/facecoemptfg): preguntas, estructura y extensión reales.
+:::
+
+::: notes
+Un ejemplo por tema. Son orientativos, no una lista cerrada: cada estudiante elige el tema concreto, el periodo, la geografía y el método. Títulos completos de los tres temas: "Los determinantes económicos de la migración histórica: lecciones de la era de las migraciones masivas", "Historia colonial y riqueza contemporánea: las raíces de la desigualdad económica" y "Exposición al cambio climático y migración".
+:::
+
+## Buscar literatura
+
+::: {.columns}
+::: {.column width="45%"}
+**Dónde**
+
+- [Google Scholar](https://scholar.google.com)
+- [Scopus](https://www.scopus.com)
+- [RePEc / IDEAS](https://ideas.repec.org)
+- [SSRN](https://www.ssrn.com) y [NBER](https://www.nber.org/papers)
+- [ResearchRabbit](https://www.researchrabbit.ai)
+- [Biblioteca UAB](https://www.uab.cat/biblioteques)
+:::
+::: {.column width="55%"}
+**Cómo**
+
+- Empezad con **3–5 artículos clave**
+- Seguid sus referencias… y quién los cita
+- Leed: resumen → introducción → conclusiones
+- Una **tabla de lectura**: pregunta, datos, método, resultado
+- Todo en un **gestor**: [Mendeley (UAB)](https://www.uab.cat/web/estudia-i-investiga/mendeley-institucional-1345718283901.html) o [Zotero](https://www.zotero.org)
+:::
+:::
+
+::: notes
+El curso de la Biblioteca UAB (MO86830, Campus Virtual) enseña a buscar información, citar y redactar un trabajo académico. Comprobar el acceso a Scopus desde la red UAB. ResearchRabbit sirve para explorar redes de citas a partir de unos pocos artículos clave (quién cita a quién); verificar siempre que cada referencia existe.
+:::
+
+## Formular la hipótesis
+
+- Afirmación **contrastable**: puede resultar falsa
+- Dice **qué variable afecta a cuál**, y en qué sentido
+- Se apoya en **teoría o literatura**
+
+::: {.callout-note title="Ejemplo"}
+**Pregunta:** ¿Redujo la subida del salario mínimo de 2019 el empleo juvenil?
+
+**Hipótesis:** la subida redujo el empleo de los jóvenes con salarios cercanos al mínimo.
+:::
+
+::: {.small .muted}
+En una revisión teórica: objetivos y pregunta guía en lugar de hipótesis.
+:::
+
+## Tipos de análisis
+
+- **Revisión crítica** de la literatura
+- **Descriptivo**: tendencias y comparaciones
+- **Regresión** (econometría)
+- **Inferencia causal**: diferencias en diferencias, variables instrumentales, discontinuidad
+- **Estudio de caso** (cualitativo)
+- **Modelización** o simulación
+
+::: {.small .muted}
+El método depende de la pregunta y de los datos. Software a acordar: [Stata](https://www.stata.com), [R](https://www.r-project.org) o [Python](https://www.python.org).
+:::
+
+::: notes
+Normativa §7.1: orientación teórica (revisión crítica + análisis propio) u orientación aplicada (hipótesis sustentadas en un marco teórico contrastadas con las técnicas del grado).
+:::
+
+## Cómo citar
+
+::: {.columns}
+::: {.column width="45%"}
+- **Un estilo**: [Harvard](https://ddd.uab.cat/pub/guibib/111829/modelharvard_a2025.pdf) o [Chicago](https://ddd.uab.cat/record/112365)
+- Lista **alfabética**
+- En el texto: (Card y Krueger, 1994)
+- Citado = en la lista
+- En línea: DOI o URL + **fecha**
+:::
+::: {.column width="55%"}
+::: {.refs}
+Alonso, J.A. ed., 2005. Lecciones sobre economía mundial: introducción al desarrollo y a las relaciones económicas internacionales. 2ª ed. Madrid: Civitas.
+
+Card, D. and Krueger, A.B., 1994. [Minimum wages and employment: a case study of the fast-food industry in New Jersey and Pennsylvania](https://ideas.repec.org/a/aea/aecrev/v84y1994i4p772-93.html). *American Economic Review*, 84(4), pp.772-793.
+:::
+:::
+:::
+
+::: {.callout-tip title="Mi consejo"}
+**Citad al descargar**: guardad la referencia cuando bajéis el artículo, la fuente o los datos. Si no, en unos meses no recordaréis de dónde salió.
+:::
+
+::: notes
+Formato según la guía Harvard (Anglia Ruskin) de la Biblioteca UAB, edición julio 2025; también hay guía Chicago (edición julio 2026). El primer ejemplo es el de libro de la propia guía; el de artículo se ha verificado en RePEc y NBER. El uso de IA no se cita en la bibliografía: va en el apéndice (norma de la Facultat).
+:::
+
+## Evitar el plagio
+
+- **Reelaborad** el texto con vuestras palabras, y citad igualmente la fuente
+- Si copiáis literalmente: **comillas** y cita con autor, año y página
+- Citas literales de **200 palabras como máximo**
+- Citad también **tablas, gráficos e imágenes**
+
+::: {.callout-important title="Plagio"}
+**Copiar sin citar: nota 0 y posibles sanciones.**
+:::
+
+::: {.callout-tip title="Cómo evitarlo"}
+**Curso de la Biblioteca (MO86830)**: [inscripción](https://cv.uab.cat/protected/inscripcions.jsp)
+:::
+
+::: notes
+Fuente: Normativa §7.3 (plagio: apropiarse de una idea, dato o contenido sin citar a su autor; copiar párrafos, tablas, imágenes o gráficos sin citar la fuente; no se aceptan citas de más de 200 palabras; nota de cero más las medidas sancionadoras de UAB y FEiE). La Facultat comprueba la originalidad de los TFG entregados (muestreo 24–28 mayo). Citar con autor, año y página es la práctica habitual en las citas literales.
+:::
+
+## IA: para qué sí, para qué no
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Sí"}
+- **Revisar el texto**
+- **Escribir el código**
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-important title="No"}
+- **Bibliografía**: inventa referencias
+- **Escribir el texto**: se detecta
+:::
+:::
+:::
+
+::: {.callout-note title="Idea clave"}
+**La IA es un revisor adicional, no quien hace el trabajo.**
+:::
+
+::: notes
+Criterio del tutor: la IA sirve para revisar (gramática, claridad, coherencia) y para ayudar con el código; no para la bibliografía (las IA inventan citas verosímiles; verificad siempre que cada referencia existe) ni para redactar. La Normativa (§7.3) indica que la Facultat utiliza una aplicación para verificar la originalidad de los TFG presentados.
+:::
+
+## IA: la norma de la universidad
+
+- Solo en tareas **aprobadas por el tutor**
+- **Nunca** para secciones completas
+- Todo uso, en un **apéndice**: herramienta + prompts exactos
+- Sin declararlo: **mala praxis**
+
+::: {.callout-important title="Consecuencia"}
+**Suspenso (0) y posibles sanciones.**
+:::
+
+::: {.small .muted}
+Fuente: [Normativa](https://www.uab.cat/doc/DOC_normativaTFG25-26), apartado 7.3, y [guía docente](https://apps.uab.cat/guies/public/html/2026/assignatura/102461/ca).
+:::
+
+::: notes
+Fuente: sesión de coordinación (reglas de IA), guía docente (uso de IA sin mencionarlo e informar al tutor = mala praxis, art. 7.3 de la Normativa) y Normativa §7.3 (falsificación y plagio = nota de cero más medidas sancionadoras). La sesión de coordinación indica también que no declararlo puede suponer una deducción parcial o total de la nota o medidas disciplinarias. Muestreo antiplagio: 24–28 mayo.
+:::
+
+## Cómo trabajamos
+
+::: {.columns}
+::: {.column width="40%"}
+**Normas oficiales**
+
+- **4 reuniones**: 3 de seguimiento + la defensa
+- La iniciativa es **vuestra**
+- Tras cada reunión: **resumen en [TFE](https://tfe.uab.cat)**
+- Plan de trabajo pactado tras la R2
+:::
+::: {.column width="60%"}
+**Mis normas** [(propuesta)]{.alert}
+
+- Material **48 h antes**
+- Cada reunión acaba con **tareas y fecha**
+- Dudas **solo por correo**
+  - ¿Urgente? Poned en copia mi correo personal (eliangiordano7@gmail.com)
+- Borradores en un **documento compartido**: [Google Docs](https://docs.google.com) u [Overleaf](https://www.overleaf.com)
+- Avisad pronto si os atascáis
+:::
+:::
+
+::: notes
+Fuente: Normativa §5, §7.2; sesión de coordinación (comunicación con el tutor: la iniciativa debe partir del estudiante). Las "normas" de la columna derecha son propuesta del tutor. El documento compartido sirve para dar feedback durante la redacción; la entrega oficial sigue siendo el PDF en TFE.
+:::
+
+## La web del TFG
+
+::: {.columns}
+::: {.column width="50%"}
+**[Web de la Facultat](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)**
+
+- [Calendario](https://www.uab.cat/doc/DocCalendariTFGFEiE_26-27)
+- [Normativa](https://www.uab.cat/doc/DOC_normativaTFG25-26)
+- [Guía docente](https://apps.uab.cat/guies/public/html/2026/assignatura/102461/ca)
+:::
+::: {.column width="50%"}
+**[TFE](https://tfe.uab.cat)**
+
+- Resumen tras cada reunión
+- Entregas en PDF
+- Pósters y notas
+:::
+:::
+
+::: {.callout-tip title="Curso recomendado: matriculaos"}
+**MO86830**: Herramientas y recursos que te ofrecen las bibliotecas UAB para realizar tu trabajo académico. [Inscripción en el Campus Virtual](https://cv.uab.cat/protected/inscripcions.jsp)
+:::
+
+::: notes
+Acceso a TFE con NIU. Tras la fecha límite de entrega no se puede modificar el documento (Normativa §5). El enlace de inscripción pide el acceso con la cuenta UAB.
+:::
+
+## Fechas oficiales
+
+| Cuándo | Qué |
+|---|---|
+| 21 oct – 6 nov | **Reunión 1** |
+| ≤ 4 dic | **Reunión 2** |
+| ≤ 22 feb | **Entrega intermedia** (borrador, PDF) |
+| ≤ 16 abr | **Reunión 3** |
+| **19 may, 23:59** | **Entrega final** (PDF) |
+| 20, 21, 24, 25 may | **Defensa oral** ante el tutor |
+| 18, 21, 22 jun | Jornadas de **Pósters** (opcional) |
+
+::: {.small .muted}
+Pósters: confirmar antes del 2 jun y subir el PDF antes del 8 jun. Fuente: [calendario oficial](https://www.uab.cat/doc/DocCalendariTFGFEiE_26-27).
+:::
+
+::: notes
+Fuente: Calendari d'activitats TFG 2026/27 (convocatoria ordinaria de junio). Notas del tutor: ≤ 28 may. Muestreo antiplagio: 24–28 may. Actas: hasta el 28 jun.
+:::
+
+## Mis fechas internas [(propuesta)]{.alert}
+
+| Fecha | Qué me entregáis | Oficial |
+|---|---|---|
+| Vie 20 nov | Curso de la Biblioteca UAB (MO86830) | Antes de R2 |
+| **Vie 27 nov** | **Estructura del TFG**: pregunta, hipótesis, método, datos, índice | R2 ≤ 4 dic |
+| Vie 22 ene | Literatura y datos | — |
+| Lun 15 feb | Borrador intermedio | ≤ 22 feb |
+| Vie 9 abr | Resultados | R3 ≤ 16 abr |
+| Mié 5 may | Borrador completo | — |
+| Vie 14 may | **Versión final** | 19 may |
+| Lun 17 may | Presentación oral ensayada | 20–25 may |
+
+::: notes
+Todas las fechas internas son propuesta del tutor, editables. Días de la semana comprobados con el calendario 2026/27.
+:::
+
+## Evaluación
+
+::: {.bar}
+::: {.seg .s1 style="flex:15"}
+Intermedia<br>**15 %**
+:::
+::: {.seg .s2 style="flex:65"}
+Memoria final<br>**65 %**
+:::
+::: {.seg .s3 style="flex:20"}
+Defensa oral<br>**20 %**
+:::
+:::
+
+- Nota del tutor sobre 10
+- En el acta, **máximo 7,0**
+- Con 7,0: **Pósters** (opcional) para subir nota
+- Solo los **excelentes** se publican en el [DDD](https://ddd.uab.cat)
+
+::: {.small .muted}
+Fuente: [Normativa](https://www.uab.cat/doc/DOC_normativaTFG25-26), apartado 8.
+:::
+
+::: notes
+Fuente: Normativa §8.2 y §8.3; guía docente (desde 6,95 se registra 7,0). El tribunal de pósters solo puede bajar de 7 si detecta mala praxis; si participáis, su nota es la final. Nota: el pie de la rúbrica (Annex 2) menciona 6,85 y la sesión de coordinación 6,9; se usa 6,95 de la guía docente. Revisión de nota: solicitud razonada al tutor por correo, 10 días (Normativa §8.4).
+:::
+
+## Para la 2ª reunión: lista de tareas
+
+- [ ] Elegir **tema concreto**, periodo y geografía
+- [ ] Escribir la **pregunta de investigación** y la **hipótesis**
+- [ ] Leer **3–5 artículos clave**
+- [ ] Identificar los **datos** y el **método**
+- [ ] Proponer un **índice** provisional
+- [ ] Hacer el **curso de la Biblioteca** (MO86830)
+- [ ] Anotar el **resumen de hoy en TFE**
+- [ ] **Enviármelo todo el 27 de noviembre**
+
+::: {.small .muted}
+Reunión 2: como máximo el 4 de diciembre.
+:::
+
+::: notes
+Fuente: calendario oficial (R2 ≤ 4 dic) y Normativa §5 (resumen en TFE tras cada reunión). El 27 de noviembre es la fecha interna propuesta por el tutor.
+:::
+
+# ¿Preguntas? {background-color="#40666e"}
