@@ -20,6 +20,11 @@ format:
     hash: true
     footer: "[Faculty website: TFG 2026/27](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)"
     embed-resources: true
+    title-slide-attributes:
+      data-background-image: logo-feie.png
+      data-background-size: 40%
+      data-background-position: 17.5% 6.4%
+      data-background-repeat: no-repeat
 ---
 
 ## About me
