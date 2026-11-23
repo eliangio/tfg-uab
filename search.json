@@ -4,35 +4,42 @@
     "href": "housing.html#dónde-estamos",
     "title": "TFG 2026/27",
     "section": "Dónde estamos",
-    "text": "Dónde estamos\n\n\n\n\n\n\n\n\n\nBien\n\n\n\nPeriodo y geografía: España, 2015–2025\nUna hipótesis contrastable\nUn plan de datos claro\nCurso de la Biblioteca hecho\n\n\n\n\n\n\n\n\n\n\n\n\n\nA corregir\n\n\n\nUn proyecto, no tres\nFalta una fuente de precios y alquileres\nLiteratura: quitar el artículo de la PAH\nÍndice: más corto, en torno a la hipótesis\n\n\n\n\n\n\n\nEmpezar por lo positivo: la propuesta ya tiene periodo, geografía, hipótesis y datos. Los dos títulos alternativos (mano de obra en la construcción) pasan a ser una sección de discusión, no proyectos aparte. El artículo de la PAH trata de un movimiento social y de la crisis hipotecaria, así que no apoya la pregunta. El índice generado con IA se declaró correctamente; necesita menos subapartados para 8.000–10.000 palabras."
+    "text": "Dónde estamos\n\n\n\n\n\n\n\n\n\nLo que ya tenemos\n\n\n\nPeriodo y geografía: España, 2015–2025\nUna primera hipótesis\nUn plan de datos\nCurso de la Biblioteca hecho\n\n\n\n\n\n\n\n\n\n\n\n\n\n¿Qué nos falta?\n\n\n\nElegir la pregunta de investigación exacta\nHacer la revisión de la literatura\nPensar en el modelo y los datos"
   },
   {
-    "objectID": "housing.html#pregunta-de-investigación",
-    "href": "housing.html#pregunta-de-investigación",
+    "objectID": "housing.html#opciones-de-pregunta-de-investigación",
+    "href": "housing.html#opciones-de-pregunta-de-investigación",
     "title": "TFG 2026/27",
-    "section": "Pregunta de investigación",
-    "text": "Pregunta de investigación\n\nVersión actual: To what extent has immigration-related population growth been associated with increasing housing demand, supply shortages and rising housing prices in Spain between 2015 and 2025?\n\n\n\n\n\n\n\n\nPropuesta\n\n\n¿Se asocia el crecimiento de la población por inmigración con una mayor subida de precios y alquileres en las provincias españolas, y es más fuerte donde la construcción nueva se quedó atrás?\n\n\n\n\n\nH1: más inmigración, mayor subida de precios y alquileres\nH2: efecto mayor donde la vivienda nueva no siguió el ritmo\n\n\nEnfoque empresarial: rentabilidad para propietarios e inversores, respuesta de la construcción.\n\n\nObjetivo de la reunión: salir con la pregunta definitiva. Tres cambios respecto a su versión: un solo bloque de resultados (precios y alquileres) en lugar de tres; una unidad de análisis (provincias, o comunidades autónomas si no hay datos); la oferta como contraste (H2), no como resultado aparte. Periodo: de 2015 al último año disponible, probablemente 2023 o 2024 para los alquileres. Decir “se asocia”, no “causa”: los inmigrantes también se van a regiones que ya están creciendo. El TFG se escribe en inglés: la versión actual se deja tal como la escribió."
+    "section": "Opciones de pregunta de investigación",
+    "text": "Opciones de pregunta de investigación\n\nInversión residencial: ¿cómo ha afectado la inmigración a los alquileres y a la rentabilidad de propietarios e inversores en España?\nSector de la construcción: ¿impulsa la inmigración la construcción de vivienda nueva, por la demanda y por la mano de obra?\nEmpresas y vivienda: ¿dificulta el alto coste de la vivienda que las empresas atraigan a trabajadores inmigrantes?\n\n\nBarcelona o Cataluña pueden servir como caso de estudio dentro de cualquiera de las tres."
   },
   {
-    "objectID": "housing.html#modelo-y-datos",
-    "href": "housing.html#modelo-y-datos",
+    "objectID": "housing.html#revisión-de-la-literatura",
+    "href": "housing.html#revisión-de-la-literatura",
     "title": "TFG 2026/27",
-    "section": "Modelo y datos",
-    "text": "Modelo y datos\nΔPreciopt = β·Inmigpt + γ·(Inmigpt × Ofertapt) + αp + τt + εpt\n\nProvincia p, año t. αp: diferencias fijas entre provincias. τt: shocks nacionales (tipos de interés, COVID).\n\n\n\n\n\n\n\n\nVariable\nFuente\n\n\n\n\nPoblación nacida en el extranjero\nINE, Padrón continuo\n\n\nPrecios de la vivienda\nINE, índice de precios; Ministerio de Vivienda\n\n\nAlquileres\nMinisterio de Vivienda, índice de alquiler (SERPAVI)\n\n\nConstrucción nueva\nMinisterio de Vivienda: visados, viviendas terminadas\n\n\nControles\nINE: paro, renta\n\n\n\n\nH1 es beta, H2 es gamma. Inmig: crecimiento de la población nacida en el extranjero respecto a la población total del año anterior. Oferta: viviendas terminadas o visados respecto al crecimiento de la población. Unas 50 provincias x 9-10 años = 450-500 observaciones, suficiente para una regresión con efectos fijos. Comprobar antes la cobertura: SERPAVI acaba antes que las demás series. La endogeneidad va en las limitaciones; un instrumento shift-share (Card 2001) puede mencionarse como investigación futura. Software a acordar: Stata, R o Gretl."
+    "section": "Revisión de la literatura",
+    "text": "Revisión de la literatura\n\nGonzález, L. and Ortega, F., 2013. Immigration and housing booms: evidence from Spain. Journal of Regional Science, 53(1), pp.37-59.\nSaiz, A., 2007. Immigration and housing rents in American cities. Journal of Urban Economics, 61(2), pp.345-371.\n\n\n\n\n\n\n\n\nCómo leerlos\n\n\nPara cada artículo: pregunta, datos, método, resultado y qué aporta a tu TFG.\n\n\n\n\n\nSon las dos lecturas que le envié por correo. González y Ortega es la referencia para España; Saiz trata los alquileres. A partir de sus referencias, y de quién los cita, sale el resto de la literatura."
+  },
+  {
+    "objectID": "housing.html#datos-posibles",
+    "href": "housing.html#datos-posibles",
+    "title": "TFG 2026/27",
+    "section": "Datos posibles",
+    "text": "Datos posibles\n\n\n\nQué\nDónde\n\n\n\n\nPoblación extranjera, por provincia\nINE, Estadística Continua de Población\n\n\nPrecios de la vivienda\nINE, Índice de precios de vivienda\n\n\nAlquileres\nINE, Índice de precios de alquiler · SERPAVI\n\n\nValor tasado de la vivienda\nMinisterio de Vivienda\n\n\n\n\nTodos los índices de precios del INE: aquí.\n\n\nComprobar para cada serie el nivel geográfico (provincia o comunidad autónoma) y los años disponibles. El índice de precios de alquiler del INE es experimental y llega hasta 2024. Para años anteriores a la Estadística Continua de Población está la Estadística del Padrón Continuo."
+  },
+  {
+    "objectID": "housing.html#un-modelo-posible-solo-un-ejemplo",
+    "href": "housing.html#un-modelo-posible-solo-un-ejemplo",
+    "title": "TFG 2026/27",
+    "section": "Un modelo posible (solo un ejemplo)",
+    "text": "Un modelo posible (solo un ejemplo)\n\n\n\n\n\n\n\nEjemplo\n\n\nPreciopt = α + β · Inmigraciónpt + εpt\n\n\n\n\n\np: provincia, t: año\nβ &gt; 0: donde llega más inmigración, la vivienda sube más\n\n\nEs solo orientativo: el modelo lo definimos cuando tengamos la pregunta y los datos."
   },
   {
     "objectID": "housing.html#para-enero-lista-de-tareas",
     "href": "housing.html#para-enero-lista-de-tareas",
     "title": "TFG 2026/27",
     "section": "Para enero: lista de tareas",
-    "text": "Para enero: lista de tareas\n\nEscribir el resumen de hoy en TFE y dejar constancia del cambio de tema en el apartado de la reunión 1\nCapítulo de revisión de la literatura: 1.500–2.500 palabras\nBase de datos: provincia × año, con un breve libro de códigos (fuente, años, huecos)\nMetodología: primer borrador de la sección de datos y método\nEnviármelo todo antes del viernes 22 de enero\n\n\n\n\n\n\n\n\nPara empezar a leer\n\n\nCochrane & Poot (2019) · González & Ortega (2013) · Saiz (2007) · Migration Advisory Committee (2026)\n\n\n\n\n\nLa revisión de la literatura es aproximadamente el 20% de un TFG de 8.000–10.000 palabras. Orden de lectura: el informe del MAC (el más fácil), luego Cochrane & Poot (la revisión), luego González & Ortega (la referencia para España), luego Saiz (alquileres). Para cada artículo: pregunta, datos, método, resultado, relevancia. El 22 de enero es la fecha interna de la primera reunión."
-  },
-  {
-    "objectID": "housing.html#próximas-fechas",
-    "href": "housing.html#próximas-fechas",
-    "title": "TFG 2026/27",
-    "section": "Próximas fechas",
-    "text": "Próximas fechas\n\n\n\nCuándo\nQué\n\n\n\n\nVie 22 ene\nLiteratura, datos y metodología (interna)\n\n\nLun 15 feb\nBorrador intermedio (interna)\n\n\n≤ 22 feb\nEntrega intermedia en TFE (15% de la nota)\n\n\n≤ 16 abr\nReunión 3\n\n\n\n\nFuente: calendario oficial. Fechas internas según lo acordado en la reunión 1.\n\n\nNo hay ninguna reunión oficial entre hoy y la entrega intermedia, así que el 22 de enero sirve de punto de control. El borrador intermedio debería incluir literatura, datos y método, y unos primeros resultados descriptivos."
+    "text": "Para enero: lista de tareas\n\nEscribir el resumen de hoy en TFE\nElegir la pregunta de investigación\nRevisión de la literatura: 1.500–2.500 palabras\nBuscar los datos y pensar en el modelo\nEnviármelo todo antes del viernes 22 de enero"
   },
   {
     "objectID": "index.html#quién-soy",
@@ -305,34 +312,41 @@
     "href": "housing-en.html#where-we-are",
     "title": "TFG 2026/27",
     "section": "Where we are",
-    "text": "Where we are\n\n\n\n\n\n\n\n\n\nGood\n\n\n\nPeriod and geography: Spain, 2015–2025\nA testable hypothesis\nA clear data plan\nLibrary course done\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo fix\n\n\n\nOne project, not three\nNo source yet for prices and rents\nLiterature: drop the PAH paper\nOutline: shorter, built around the hypothesis\n\n\n\n\n\n\n\nStart with what is good: the proposal already has period, geography, hypothesis and data. The two alternative titles (construction labour) become a discussion section, not separate projects. The PAH paper is about a social movement and the mortgage crisis, so it does not support the question. The AI-generated outline was correctly declared; it needs fewer subsections for 8,000–10,000 words."
+    "text": "Where we are\n\n\n\n\n\n\n\n\n\nWhat we have\n\n\n\nPeriod and geography: Spain, 2015–2025\nA first hypothesis\nA data plan\nLibrary course done\n\n\n\n\n\n\n\n\n\n\n\n\n\nWhat is still missing?\n\n\n\nChoose the exact research question\nDo the literature review\nThink about the model and the data"
   },
   {
-    "objectID": "housing-en.html#research-question",
-    "href": "housing-en.html#research-question",
+    "objectID": "housing-en.html#research-question-options",
+    "href": "housing-en.html#research-question-options",
     "title": "TFG 2026/27",
-    "section": "Research question",
-    "text": "Research question\n\nCurrent version: To what extent has immigration-related population growth been associated with increasing housing demand, supply shortages and rising housing prices in Spain between 2015 and 2025?\n\n\n\n\n\n\n\n\nProposal\n\n\nIs immigration-driven population growth associated with faster growth in housing prices and rents across Spanish provinces, and is this association stronger where new construction lagged behind?\n\n\n\n\n\nH1: provinces with more immigration see faster price and rent growth\nH2: the effect is larger where new housing did not keep up\n\n\nBusiness angle: returns for landlords and investors, response of construction.\n\n\nGoal of the meeting: leave with the final question. Three changes from her version: one outcome block (prices and rents) instead of three; a unit of analysis (provinces, or regions if the data are not available); the supply side as a test (H2), not as a separate outcome. Period: 2015 to the latest year available, probably 2023 or 2024 for rents. Say “associated”, not “caused”: migrants also move to regions that are already booming."
+    "section": "Research question options",
+    "text": "Research question options\n\nResidential investment: how has immigration affected rents and returns for landlords and investors in Spain?\nConstruction sector: does immigration drive new housing supply, through both demand and labour?\nFirms and housing: do high housing costs make it harder for firms to attract migrant workers?\n\n\nBarcelona or Catalonia can work as a case study within any of the three."
   },
   {
-    "objectID": "housing-en.html#model-and-data",
-    "href": "housing-en.html#model-and-data",
+    "objectID": "housing-en.html#literature-review",
+    "href": "housing-en.html#literature-review",
     "title": "TFG 2026/27",
-    "section": "Model and data",
-    "text": "Model and data\nΔPricept = β·Immigpt + γ·(Immigpt × Supplypt) + αp + τt + εpt\n\nProvince p, year t. αp: fixed differences between provinces. τt: national shocks (interest rates, COVID).\n\n\n\n\nVariable\nSource\n\n\n\n\nForeign-born population\nINE, Padrón continuo\n\n\nHouse prices\nINE price index; Ministry of Housing\n\n\nRents\nMinistry of Housing rental index (SERPAVI)\n\n\nNew construction\nMinistry of Housing: permits, completions\n\n\nControls\nINE: unemployment, income\n\n\n\n\nH1 is beta, H2 is gamma. Immig: growth in the foreign-born population relative to the previous year’s total population. Supply: completions or permits relative to population growth. About 50 provinces x 9-10 years = 450-500 observations, enough for a fixed-effects regression. Check coverage first: SERPAVI ends earlier than the other series. Endogeneity goes in the limitations; a shift-share instrument (Card 2001) can be mentioned as future research. Software to agree: Stata, R or Gretl."
+    "section": "Literature review",
+    "text": "Literature review\n\nGonzález, L. and Ortega, F., 2013. Immigration and housing booms: evidence from Spain. Journal of Regional Science, 53(1), pp.37-59.\nSaiz, A., 2007. Immigration and housing rents in American cities. Journal of Urban Economics, 61(2), pp.345-371.\n\n\n\n\n\n\n\n\nHow to read them\n\n\nFor each paper: question, data, method, result, and what it adds to your TFG.\n\n\n\n\n\nThese are the two readings I sent by email. González and Ortega is the Spanish benchmark; Saiz covers rents. Their references, and the papers that cite them, lead to the rest of the literature."
+  },
+  {
+    "objectID": "housing-en.html#possible-data",
+    "href": "housing-en.html#possible-data",
+    "title": "TFG 2026/27",
+    "section": "Possible data",
+    "text": "Possible data\n\n\n\nWhat\nWhere\n\n\n\n\nForeign population, by province\nINE, Continuous Population Statistics\n\n\nHouse prices\nINE, Housing price index\n\n\nRents\nINE, Rental price index · SERPAVI\n\n\nAppraised housing value\nMinistry of Housing\n\n\n\n\nAll INE price indices: here.\n\n\nFor each series, check the geographic level (province or region) and the years available. The INE rental price index is experimental and runs to 2024. For years before the Continuous Population Statistics, use the Continuous Register (Padrón continuo) statistics."
+  },
+  {
+    "objectID": "housing-en.html#a-possible-model-just-an-example",
+    "href": "housing-en.html#a-possible-model-just-an-example",
+    "title": "TFG 2026/27",
+    "section": "A possible model (just an example)",
+    "text": "A possible model (just an example)\n\n\n\n\n\n\n\nExample\n\n\nPricept = α + β · Immigrationpt + εpt\n\n\n\n\n\np: province, t: year\nβ &gt; 0: where more immigrants arrive, housing becomes more expensive\n\n\nOnly indicative: we will define the model once we have the question and the data."
   },
   {
     "objectID": "housing-en.html#for-january-to-do-list",
     "href": "housing-en.html#for-january-to-do-list",
     "title": "TFG 2026/27",
     "section": "For January: to-do list",
-    "text": "For January: to-do list\n\nWrite today’s summary in TFE and record the topic change in the meeting 1 section\nLiterature review chapter: 1,500–2,500 words\nDataset: province × year, with a short codebook (source, years, gaps)\nMethodology: first draft of the data and method section\nSend me everything by Fri 22 January\n\n\n\n\n\n\n\n\nStart reading with\n\n\nCochrane & Poot (2019) · González & Ortega (2013) · Saiz (2007) · Migration Advisory Committee (2026)\n\n\n\n\n\nThe literature review is about 20% of an 8,000–10,000-word TFG. Reading order: the MAC review (easiest), then Cochrane & Poot (the survey), then González & Ortega (the Spanish benchmark), then Saiz (rents). For each paper: question, data, method, result, relevance. 22 January is the internal date from the first meeting."
-  },
-  {
-    "objectID": "housing-en.html#next-dates",
-    "href": "housing-en.html#next-dates",
-    "title": "TFG 2026/27",
-    "section": "Next dates",
-    "text": "Next dates\n\n\n\nWhen\nWhat\n\n\n\n\nFri 22 Jan\nLiterature, data and methodology (internal)\n\n\nMon 15 Feb\nIntermediate draft (internal)\n\n\n≤ 22 Feb\nIntermediate delivery in TFE (15% of the grade)\n\n\n≤ 16 Apr\nMeeting 3\n\n\n\n\nSource: official calendar. Internal dates as agreed in meeting 1.\n\n\nThere is no official meeting between now and the intermediate delivery, so 22 January works as the checkpoint. The intermediate draft should include literature, data and method, and first descriptive results."
+    "text": "For January: to-do list\n\nWrite today’s summary in TFE\nChoose the research question\nLiterature review: 1,500–2,500 words\nFind the data and think about the model\nSend me everything by Fri 22 January"
   }
 ]
