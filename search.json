@@ -1,38 +1,171 @@
 [
   {
-    "objectID": "meeting2.html#dónde-estamos",
-    "href": "meeting2.html#dónde-estamos",
+    "objectID": "housing.html#dónde-estamos",
+    "href": "housing.html#dónde-estamos",
     "title": "TFG 2026/27",
     "section": "Dónde estamos",
     "text": "Dónde estamos\n\n\n\n\n\n\n\n\n\nBien\n\n\n\nPeriodo y geografía: España, 2015–2025\nUna hipótesis contrastable\nUn plan de datos claro\nCurso de la Biblioteca hecho\n\n\n\n\n\n\n\n\n\n\n\n\n\nA corregir\n\n\n\nUn proyecto, no tres\nFalta una fuente de precios y alquileres\nLiteratura: quitar el artículo de la PAH\nÍndice: más corto, en torno a la hipótesis\n\n\n\n\n\n\n\nEmpezar por lo positivo: la propuesta ya tiene periodo, geografía, hipótesis y datos. Los dos títulos alternativos (mano de obra en la construcción) pasan a ser una sección de discusión, no proyectos aparte. El artículo de la PAH trata de un movimiento social y de la crisis hipotecaria, así que no apoya la pregunta. El índice generado con IA se declaró correctamente; necesita menos subapartados para 8.000–10.000 palabras."
   },
   {
-    "objectID": "meeting2.html#pregunta-de-investigación",
-    "href": "meeting2.html#pregunta-de-investigación",
+    "objectID": "housing.html#pregunta-de-investigación",
+    "href": "housing.html#pregunta-de-investigación",
     "title": "TFG 2026/27",
     "section": "Pregunta de investigación",
     "text": "Pregunta de investigación\n\nVersión actual: To what extent has immigration-related population growth been associated with increasing housing demand, supply shortages and rising housing prices in Spain between 2015 and 2025?\n\n\n\n\n\n\n\n\nPropuesta\n\n\n¿Se asocia el crecimiento de la población por inmigración con una mayor subida de precios y alquileres en las provincias españolas, y es más fuerte donde la construcción nueva se quedó atrás?\n\n\n\n\n\nH1: más inmigración, mayor subida de precios y alquileres\nH2: efecto mayor donde la vivienda nueva no siguió el ritmo\n\n\nEnfoque empresarial: rentabilidad para propietarios e inversores, respuesta de la construcción.\n\n\nObjetivo de la reunión: salir con la pregunta definitiva. Tres cambios respecto a su versión: un solo bloque de resultados (precios y alquileres) en lugar de tres; una unidad de análisis (provincias, o comunidades autónomas si no hay datos); la oferta como contraste (H2), no como resultado aparte. Periodo: de 2015 al último año disponible, probablemente 2023 o 2024 para los alquileres. Decir “se asocia”, no “causa”: los inmigrantes también se van a regiones que ya están creciendo. El TFG se escribe en inglés: la versión actual se deja tal como la escribió."
   },
   {
-    "objectID": "meeting2.html#modelo-y-datos",
-    "href": "meeting2.html#modelo-y-datos",
+    "objectID": "housing.html#modelo-y-datos",
+    "href": "housing.html#modelo-y-datos",
     "title": "TFG 2026/27",
     "section": "Modelo y datos",
     "text": "Modelo y datos\nΔPreciopt = β·Inmigpt + γ·(Inmigpt × Ofertapt) + αp + τt + εpt\n\nProvincia p, año t. αp: diferencias fijas entre provincias. τt: shocks nacionales (tipos de interés, COVID).\n\n\n\n\n\n\n\n\nVariable\nFuente\n\n\n\n\nPoblación nacida en el extranjero\nINE, Padrón continuo\n\n\nPrecios de la vivienda\nINE, índice de precios; Ministerio de Vivienda\n\n\nAlquileres\nMinisterio de Vivienda, índice de alquiler (SERPAVI)\n\n\nConstrucción nueva\nMinisterio de Vivienda: visados, viviendas terminadas\n\n\nControles\nINE: paro, renta\n\n\n\n\nH1 es beta, H2 es gamma. Inmig: crecimiento de la población nacida en el extranjero respecto a la población total del año anterior. Oferta: viviendas terminadas o visados respecto al crecimiento de la población. Unas 50 provincias x 9-10 años = 450-500 observaciones, suficiente para una regresión con efectos fijos. Comprobar antes la cobertura: SERPAVI acaba antes que las demás series. La endogeneidad va en las limitaciones; un instrumento shift-share (Card 2001) puede mencionarse como investigación futura. Software a acordar: Stata, R o Gretl."
   },
   {
-    "objectID": "meeting2.html#para-enero-lista-de-tareas",
-    "href": "meeting2.html#para-enero-lista-de-tareas",
+    "objectID": "housing.html#para-enero-lista-de-tareas",
+    "href": "housing.html#para-enero-lista-de-tareas",
     "title": "TFG 2026/27",
     "section": "Para enero: lista de tareas",
     "text": "Para enero: lista de tareas\n\nEscribir el resumen de hoy en TFE y dejar constancia del cambio de tema en el apartado de la reunión 1\nCapítulo de revisión de la literatura: 1.500–2.500 palabras\nBase de datos: provincia × año, con un breve libro de códigos (fuente, años, huecos)\nMetodología: primer borrador de la sección de datos y método\nEnviármelo todo antes del viernes 22 de enero\n\n\n\n\n\n\n\n\nPara empezar a leer\n\n\nCochrane & Poot (2019) · González & Ortega (2013) · Saiz (2007) · Migration Advisory Committee (2026)\n\n\n\n\n\nLa revisión de la literatura es aproximadamente el 20% de un TFG de 8.000–10.000 palabras. Orden de lectura: el informe del MAC (el más fácil), luego Cochrane & Poot (la revisión), luego González & Ortega (la referencia para España), luego Saiz (alquileres). Para cada artículo: pregunta, datos, método, resultado, relevancia. El 22 de enero es la fecha interna de la primera reunión."
   },
   {
-    "objectID": "meeting2.html#próximas-fechas",
-    "href": "meeting2.html#próximas-fechas",
+    "objectID": "housing.html#próximas-fechas",
+    "href": "housing.html#próximas-fechas",
     "title": "TFG 2026/27",
     "section": "Próximas fechas",
     "text": "Próximas fechas\n\n\n\nCuándo\nQué\n\n\n\n\nVie 22 ene\nLiteratura, datos y metodología (interna)\n\n\nLun 15 feb\nBorrador intermedio (interna)\n\n\n≤ 22 feb\nEntrega intermedia en TFE (15% de la nota)\n\n\n≤ 16 abr\nReunión 3\n\n\n\n\nFuente: calendario oficial. Fechas internas según lo acordado en la reunión 1.\n\n\nNo hay ninguna reunión oficial entre hoy y la entrega intermedia, así que el 22 de enero sirve de punto de control. El borrador intermedio debería incluir literatura, datos y método, y unos primeros resultados descriptivos."
+  },
+  {
+    "objectID": "index.html#quién-soy",
+    "href": "index.html#quién-soy",
+    "title": "TFG 2026/27",
+    "section": "Quién soy",
+    "text": "Quién soy\n\n\nElian Giordano\n\nInstitut d’Economia de Barcelona (IEB)\nFacultat d’Economia i Empresa, UAB\nJournal of Political Economy (JPE)\n\n\nÁreas de especialización\n\nDesarrollo económico\nHistoria económica y migración\nDesigualdad y movilidad social\nEvaluación de impacto\n\n\nFormación\n\nMáster en Desarrollo Económico, UC3M y Lund University\nGrado en Relaciones Internacionales, Unimi"
+  },
+  {
+    "objectID": "index.html#las-fases-de-un-tfg",
+    "href": "index.html#las-fases-de-un-tfg",
+    "title": "TFG 2026/27",
+    "section": "Las fases de un TFG",
+    "text": "Las fases de un TFG\n\n\n1 Pregunta de investigación Oct–nov\n\nQué queréis explicar\nObjetivo e hipótesis\nAcotada y viable\n\n\n\n2 Revisión de literatura Nov–ene\n\nQué se sabe ya\nQué falta: vuestra aportación\n\n\n\n3 Metodología Dic–feb\n\nDatos: fuentes y variables\nTécnica de análisis\n\n\n\n4 Análisis de datos Feb–may\n\nResultados\nDiscusión y límites\nConclusiones"
+  },
+  {
+    "objectID": "index.html#estructura-del-tfg-12",
+    "href": "index.html#estructura-del-tfg-12",
+    "title": "TFG 2026/27",
+    "section": "Estructura del TFG (1/2)",
+    "text": "Estructura del TFG (1/2)\n\n\nPortada\n\nTítulo y subtítulo (con dos puntos)\nAutor/a y tutor/a\nTitulación y centro\nFecha de entrega\nModelo oficial de la Facultat\n\n\nResumen y palabras clave\n\n200-500 palabras\n3-10 palabras clave\nLengua del trabajo (+ inglés)\n\nAgradecimientos\n\nTutor y colaboradores\n\nÍndice\n\nCapítulos con página"
+  },
+  {
+    "objectID": "index.html#estructura-del-tfg-22",
+    "href": "index.html#estructura-del-tfg-22",
+    "title": "TFG 2026/27",
+    "section": "Estructura del TFG (2/2)",
+    "text": "Estructura del TFG (2/2)\n\n\nIntroducción\n\nMotivación, objetivo, metodología e hipótesis\n\nCuerpo del trabajo\n\nCapítulos y apartados\nLiteratura, datos y método, resultados\nAcaba con las conclusiones\n\n\nBibliografía\n\nLista ordenada de las fuentes\nGestor de referencias\n\nAnexos\n\nNumerados\nIncluye el apéndice de uso de IA\n\n\nExtensión: 8.000–10.000 palabras (Normativa: unas 25 páginas)"
+  },
+  {
+    "objectID": "index.html#pregunta-de-investigación",
+    "href": "index.html#pregunta-de-investigación",
+    "title": "TFG 2026/27",
+    "section": "Pregunta de investigación",
+    "text": "Pregunta de investigación\n\nEspecífica\nCon periodo y lugar definidos\nCon datos accesibles\nRelevante: aporta algo\nAbordable antes de mayo\n\n\nSuelen empezar por «¿Qué efecto tuvo…?», «¿Cómo ha cambiado…?» o «¿Qué explica…?»"
+  },
+  {
+    "objectID": "index.html#ejemplos-de-preguntas",
+    "href": "index.html#ejemplos-de-preguntas",
+    "title": "TFG 2026/27",
+    "section": "Ejemplos de preguntas",
+    "text": "Ejemplos de preguntas\n\n\n\n\n\n\n\n\nTema\nPregunta concreta\nTipo\n\n\n\n\nMigración histórica\n¿Qué papel jugaron las redes de migrantes en la emigración de las provincias españolas a América entre 1880 y 1930?\nExplicativa\n\n\nHistoria colonial y riqueza\n¿Dejó el trabajo forzado en las minas coloniales de Perú efectos persistentes sobre el consumo actual de los hogares?\nCausal\n\n\nClima y migración\n¿Aumentaron las sequías la migración interna en el nordeste de Brasil entre 1990 y 2020?\nCausal\n\n\n\n\n\n\n\n\n\n\nPara inspiraros\n\n\nLeed TFG excelentes de la Facultat en el DDD: preguntas, estructura y extensión reales.\n\n\n\n\n\nUn ejemplo por tema. Son orientativos, no una lista cerrada: cada estudiante elige el tema concreto, el periodo, la geografía y el método. Títulos completos de los tres temas: “Los determinantes económicos de la migración histórica: lecciones de la era de las migraciones masivas”, “Historia colonial y riqueza contemporánea: las raíces de la desigualdad económica” y “Exposición al cambio climático y migración”."
+  },
+  {
+    "objectID": "index.html#buscar-literatura",
+    "href": "index.html#buscar-literatura",
+    "title": "TFG 2026/27",
+    "section": "Buscar literatura",
+    "text": "Buscar literatura\n\n\nDónde\n\nGoogle Scholar\nScopus\nRePEc / IDEAS\nSSRN y NBER\nResearchRabbit\nBiblioteca UAB\n\n\nCómo\n\nEmpezad con 3–5 artículos clave\nSeguid sus referencias… y quién los cita\nLeed: resumen → introducción → conclusiones\nUna tabla de lectura: pregunta, datos, método, resultado\nTodo en un gestor: Mendeley (UAB) o Zotero\n\n\n\nEl curso de la Biblioteca UAB (MO86830, Campus Virtual) enseña a buscar información, citar y redactar un trabajo académico. Comprobar el acceso a Scopus desde la red UAB. ResearchRabbit sirve para explorar redes de citas a partir de unos pocos artículos clave (quién cita a quién); verificar siempre que cada referencia existe."
+  },
+  {
+    "objectID": "index.html#formular-la-hipótesis",
+    "href": "index.html#formular-la-hipótesis",
+    "title": "TFG 2026/27",
+    "section": "Formular la hipótesis",
+    "text": "Formular la hipótesis\n\nAfirmación contrastable: puede resultar falsa\nDice qué variable afecta a cuál, y en qué sentido\nSe apoya en teoría o literatura\n\n\n\n\n\n\n\n\nEjemplo\n\n\nPregunta: ¿Redujo la subida del salario mínimo de 2019 el empleo juvenil?\nHipótesis: la subida redujo el empleo de los jóvenes con salarios cercanos al mínimo.\n\n\n\n\n\nEn una revisión teórica: objetivos y pregunta guía en lugar de hipótesis."
+  },
+  {
+    "objectID": "index.html#tipos-de-análisis",
+    "href": "index.html#tipos-de-análisis",
+    "title": "TFG 2026/27",
+    "section": "Tipos de análisis",
+    "text": "Tipos de análisis\n\nRevisión crítica de la literatura\nDescriptivo: tendencias y comparaciones\nRegresión (econometría)\nInferencia causal: diferencias en diferencias, variables instrumentales, discontinuidad\nEstudio de caso (cualitativo)\nModelización o simulación\n\n\nEl método depende de la pregunta y de los datos. Software a acordar: Stata, R o Python.\n\n\nNormativa §7.1: orientación teórica (revisión crítica + análisis propio) u orientación aplicada (hipótesis sustentadas en un marco teórico contrastadas con las técnicas del grado)."
+  },
+  {
+    "objectID": "index.html#cómo-citar",
+    "href": "index.html#cómo-citar",
+    "title": "TFG 2026/27",
+    "section": "Cómo citar",
+    "text": "Cómo citar\n\n\n\nUn estilo: Harvard o Chicago\nLista alfabética\nEn el texto: (Card y Krueger, 1994)\nCitado = en la lista\nEn línea: DOI o URL + fecha\n\n\n\nAlonso, J.A. ed., 2005. Lecciones sobre economía mundial: introducción al desarrollo y a las relaciones económicas internacionales. 2ª ed. Madrid: Civitas.\nCard, D. and Krueger, A.B., 1994. Minimum wages and employment: a case study of the fast-food industry in New Jersey and Pennsylvania. American Economic Review, 84(4), pp.772-793.\n\n\n\n\n\n\n\n\n\nMi consejo\n\n\nCitad al descargar: guardad la referencia cuando bajéis el artículo, la fuente o los datos. Si no, en unos meses no recordaréis de dónde salió.\n\n\n\n\n\nFormato según la guía Harvard (Anglia Ruskin) de la Biblioteca UAB, edición julio 2025; también hay guía Chicago (edición julio 2026). El primer ejemplo es el de libro de la propia guía; el de artículo se ha verificado en RePEc y NBER. El uso de IA no se cita en la bibliografía: va en el apéndice (norma de la Facultat)."
+  },
+  {
+    "objectID": "index.html#evitar-el-plagio",
+    "href": "index.html#evitar-el-plagio",
+    "title": "TFG 2026/27",
+    "section": "Evitar el plagio",
+    "text": "Evitar el plagio\n\nReelaborad el texto con vuestras palabras, y citad igualmente la fuente\nSi copiáis literalmente: comillas y cita con autor, año y página\nCitas literales de 200 palabras como máximo\nCitad también tablas, gráficos e imágenes\n\n\n\n\n\n\n\n\nPlagio\n\n\nCopiar sin citar: nota 0 y posibles sanciones.\n\n\n\n\n\n\n\n\n\n\n\nCómo evitarlo\n\n\nCurso de la Biblioteca (MO86830): inscripción\n\n\n\n\n\nFuente: Normativa §7.3 (plagio: apropiarse de una idea, dato o contenido sin citar a su autor; copiar párrafos, tablas, imágenes o gráficos sin citar la fuente; no se aceptan citas de más de 200 palabras; nota de cero más las medidas sancionadoras de UAB y FEiE). La Facultat comprueba la originalidad de los TFG entregados (muestreo 24–28 mayo). Citar con autor, año y página es la práctica habitual en las citas literales."
+  },
+  {
+    "objectID": "index.html#ia-para-qué-sí-para-qué-no",
+    "href": "index.html#ia-para-qué-sí-para-qué-no",
+    "title": "TFG 2026/27",
+    "section": "IA: para qué sí, para qué no",
+    "text": "IA: para qué sí, para qué no\n\n\n\n\n\n\n\n\n\nSí\n\n\n\nRevisar el texto\nEscribir el código\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo\n\n\n\nBibliografía: inventa referencias\nEscribir el texto: se detecta\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdea clave\n\n\nLa IA es un revisor adicional, no quien hace el trabajo.\n\n\n\n\n\nCriterio del tutor: la IA sirve para revisar (gramática, claridad, coherencia) y para ayudar con el código; no para la bibliografía (las IA inventan citas verosímiles; verificad siempre que cada referencia existe) ni para redactar. La Normativa (§7.3) indica que la Facultat utiliza una aplicación para verificar la originalidad de los TFG presentados."
+  },
+  {
+    "objectID": "index.html#ia-la-norma-de-la-universidad",
+    "href": "index.html#ia-la-norma-de-la-universidad",
+    "title": "TFG 2026/27",
+    "section": "IA: la norma de la universidad",
+    "text": "IA: la norma de la universidad\n\nSolo en tareas aprobadas por el tutor\nNunca para secciones completas\nTodo uso, en un apéndice: herramienta + prompts exactos\nSin declararlo: mala praxis\n\n\n\n\n\n\n\n\nConsecuencia\n\n\nSuspenso (0) y posibles sanciones.\n\n\n\n\n\nFuente: Normativa, apartado 7.3, y guía docente.\n\n\nFuente: sesión de coordinación (reglas de IA), guía docente (uso de IA sin mencionarlo e informar al tutor = mala praxis, art. 7.3 de la Normativa) y Normativa §7.3 (falsificación y plagio = nota de cero más medidas sancionadoras). La sesión de coordinación indica también que no declararlo puede suponer una deducción parcial o total de la nota o medidas disciplinarias. Muestreo antiplagio: 24–28 mayo."
+  },
+  {
+    "objectID": "index.html#cómo-trabajamos",
+    "href": "index.html#cómo-trabajamos",
+    "title": "TFG 2026/27",
+    "section": "Cómo trabajamos",
+    "text": "Cómo trabajamos\n\n\nNormas oficiales\n\n4 reuniones: 3 de seguimiento + la defensa\nLa iniciativa es vuestra\nTras cada reunión: resumen en TFE\nPlan de trabajo pactado tras la R2\n\n\nMis normas (propuesta)\n\nMaterial 48 h antes\nCada reunión acaba con tareas y fecha\nDudas solo por correo\n\n¿Urgente? Poned en copia mi correo personal (eliangiordano7@gmail.com)\n\nBorradores en un documento compartido: Google Docs u Overleaf\nAvisad pronto si os atascáis\n\n\n\nFuente: Normativa §5, §7.2; sesión de coordinación (comunicación con el tutor: la iniciativa debe partir del estudiante). Las “normas” de la columna derecha son propuesta del tutor. El documento compartido sirve para dar feedback durante la redacción; la entrega oficial sigue siendo el PDF en TFE."
+  },
+  {
+    "objectID": "index.html#la-web-del-tfg",
+    "href": "index.html#la-web-del-tfg",
+    "title": "TFG 2026/27",
+    "section": "La web del TFG",
+    "text": "La web del TFG\n\n\nWeb de la Facultat\n\nCalendario\nNormativa\nGuía docente\n\n\nTFE\n\nResumen tras cada reunión\nEntregas en PDF\nPósters y notas\n\n\n\n\n\n\n\n\n\nCurso recomendado: matriculaos\n\n\nMO86830: Herramientas y recursos que te ofrecen las bibliotecas UAB para realizar tu trabajo académico. Inscripción en el Campus Virtual\n\n\n\n\n\nAcceso a TFE con NIU. Tras la fecha límite de entrega no se puede modificar el documento (Normativa §5). El enlace de inscripción pide el acceso con la cuenta UAB."
+  },
+  {
+    "objectID": "index.html#fechas-oficiales",
+    "href": "index.html#fechas-oficiales",
+    "title": "TFG 2026/27",
+    "section": "Fechas oficiales",
+    "text": "Fechas oficiales\n\n\n\nCuándo\nQué\n\n\n\n\n21 oct – 6 nov\nReunión 1\n\n\n≤ 4 dic\nReunión 2\n\n\n≤ 22 feb\nEntrega intermedia (borrador, PDF)\n\n\n≤ 16 abr\nReunión 3\n\n\n19 may, 23:59\nEntrega final (PDF)\n\n\n20, 21, 24, 25 may\nDefensa oral ante el tutor\n\n\n18, 21, 22 jun\nJornadas de Pósters (opcional)\n\n\n\n\nPósters: confirmar antes del 2 jun y subir el PDF antes del 8 jun. Fuente: calendario oficial.\n\n\nFuente: Calendari d’activitats TFG 2026/27 (convocatoria ordinaria de junio). Notas del tutor: ≤ 28 may. Muestreo antiplagio: 24–28 may. Actas: hasta el 28 jun."
+  },
+  {
+    "objectID": "index.html#mis-fechas-internas-propuesta",
+    "href": "index.html#mis-fechas-internas-propuesta",
+    "title": "TFG 2026/27",
+    "section": "Mis fechas internas (propuesta)",
+    "text": "Mis fechas internas (propuesta)\n\n\n\n\n\n\n\n\nFecha\nQué me entregáis\nOficial\n\n\n\n\nVie 20 nov\nCurso de la Biblioteca UAB (MO86830)\nAntes de R2\n\n\nVie 27 nov\nEstructura del TFG: pregunta, hipótesis, método, datos, índice\nR2 ≤ 4 dic\n\n\nVie 22 ene\nLiteratura y datos\n—\n\n\nLun 15 feb\nBorrador intermedio\n≤ 22 feb\n\n\nVie 9 abr\nResultados\nR3 ≤ 16 abr\n\n\nMié 5 may\nBorrador completo\n—\n\n\nVie 14 may\nVersión final\n19 may\n\n\nLun 17 may\nPresentación oral ensayada\n20–25 may\n\n\n\n\nTodas las fechas internas son propuesta del tutor, editables. Días de la semana comprobados con el calendario 2026/27."
+  },
+  {
+    "objectID": "index.html#evaluación",
+    "href": "index.html#evaluación",
+    "title": "TFG 2026/27",
+    "section": "Evaluación",
+    "text": "Evaluación\n\n\nIntermedia15 %\n\n\nMemoria final65 %\n\n\nDefensa oral20 %\n\n\n\nNota del tutor sobre 10\nEn el acta, máximo 7,0\nCon 7,0: Pósters (opcional) para subir nota\nSolo los excelentes se publican en el DDD\n\n\nFuente: Normativa, apartado 8.\n\n\nFuente: Normativa §8.2 y §8.3; guía docente (desde 6,95 se registra 7,0). El tribunal de pósters solo puede bajar de 7 si detecta mala praxis; si participáis, su nota es la final. Nota: el pie de la rúbrica (Annex 2) menciona 6,85 y la sesión de coordinación 6,9; se usa 6,95 de la guía docente. Revisión de nota: solicitud razonada al tutor por correo, 10 días (Normativa §8.4)."
+  },
+  {
+    "objectID": "index.html#para-la-2ª-reunión-lista-de-tareas",
+    "href": "index.html#para-la-2ª-reunión-lista-de-tareas",
+    "title": "TFG 2026/27",
+    "section": "Para la 2ª reunión: lista de tareas",
+    "text": "Para la 2ª reunión: lista de tareas\n\nElegir tema concreto, periodo y geografía\nEscribir la pregunta de investigación y la hipótesis\nLeer 3–5 artículos clave\nIdentificar los datos y el método\nProponer un índice provisional\nHacer el curso de la Biblioteca (MO86830)\nAnotar el resumen de hoy en TFE\nEnviármelo todo el 27 de noviembre\n\n\nReunión 2: como máximo el 4 de diciembre.\n\n\nFuente: calendario oficial (R2 ≤ 4 dic) y Normativa §5 (resumen en TFE tras cada reunión). El 27 de noviembre es la fecha interna propuesta por el tutor."
   },
   {
     "objectID": "index-en.html#about-me",
@@ -168,171 +301,38 @@
     "text": "For meeting 2: to-do list\n\nChoose a specific topic, period and geography\nWrite the research question and the hypothesis\nRead 3–5 key papers\nIdentify the data and the method\nPropose a provisional outline\nTake the Library course (MO86830)\nWrite today’s summary in TFE\nSend me everything by 27 November\n\n\nMeeting 2: by 4 December at the latest.\n\n\nSource: official calendar (meeting 2 ≤ 4 Dec) and Regulations §5 (summary in TFE after each meeting). 27 November is the internal date proposed by the tutor."
   },
   {
-    "objectID": "meeting2-en.html#where-we-are",
-    "href": "meeting2-en.html#where-we-are",
+    "objectID": "housing-en.html#where-we-are",
+    "href": "housing-en.html#where-we-are",
     "title": "TFG 2026/27",
     "section": "Where we are",
     "text": "Where we are\n\n\n\n\n\n\n\n\n\nGood\n\n\n\nPeriod and geography: Spain, 2015–2025\nA testable hypothesis\nA clear data plan\nLibrary course done\n\n\n\n\n\n\n\n\n\n\n\n\n\nTo fix\n\n\n\nOne project, not three\nNo source yet for prices and rents\nLiterature: drop the PAH paper\nOutline: shorter, built around the hypothesis\n\n\n\n\n\n\n\nStart with what is good: the proposal already has period, geography, hypothesis and data. The two alternative titles (construction labour) become a discussion section, not separate projects. The PAH paper is about a social movement and the mortgage crisis, so it does not support the question. The AI-generated outline was correctly declared; it needs fewer subsections for 8,000–10,000 words."
   },
   {
-    "objectID": "meeting2-en.html#research-question",
-    "href": "meeting2-en.html#research-question",
+    "objectID": "housing-en.html#research-question",
+    "href": "housing-en.html#research-question",
     "title": "TFG 2026/27",
     "section": "Research question",
     "text": "Research question\n\nCurrent version: To what extent has immigration-related population growth been associated with increasing housing demand, supply shortages and rising housing prices in Spain between 2015 and 2025?\n\n\n\n\n\n\n\n\nProposal\n\n\nIs immigration-driven population growth associated with faster growth in housing prices and rents across Spanish provinces, and is this association stronger where new construction lagged behind?\n\n\n\n\n\nH1: provinces with more immigration see faster price and rent growth\nH2: the effect is larger where new housing did not keep up\n\n\nBusiness angle: returns for landlords and investors, response of construction.\n\n\nGoal of the meeting: leave with the final question. Three changes from her version: one outcome block (prices and rents) instead of three; a unit of analysis (provinces, or regions if the data are not available); the supply side as a test (H2), not as a separate outcome. Period: 2015 to the latest year available, probably 2023 or 2024 for rents. Say “associated”, not “caused”: migrants also move to regions that are already booming."
   },
   {
-    "objectID": "meeting2-en.html#model-and-data",
-    "href": "meeting2-en.html#model-and-data",
+    "objectID": "housing-en.html#model-and-data",
+    "href": "housing-en.html#model-and-data",
     "title": "TFG 2026/27",
     "section": "Model and data",
     "text": "Model and data\nΔPricept = β·Immigpt + γ·(Immigpt × Supplypt) + αp + τt + εpt\n\nProvince p, year t. αp: fixed differences between provinces. τt: national shocks (interest rates, COVID).\n\n\n\n\nVariable\nSource\n\n\n\n\nForeign-born population\nINE, Padrón continuo\n\n\nHouse prices\nINE price index; Ministry of Housing\n\n\nRents\nMinistry of Housing rental index (SERPAVI)\n\n\nNew construction\nMinistry of Housing: permits, completions\n\n\nControls\nINE: unemployment, income\n\n\n\n\nH1 is beta, H2 is gamma. Immig: growth in the foreign-born population relative to the previous year’s total population. Supply: completions or permits relative to population growth. About 50 provinces x 9-10 years = 450-500 observations, enough for a fixed-effects regression. Check coverage first: SERPAVI ends earlier than the other series. Endogeneity goes in the limitations; a shift-share instrument (Card 2001) can be mentioned as future research. Software to agree: Stata, R or Gretl."
   },
   {
-    "objectID": "meeting2-en.html#for-january-to-do-list",
-    "href": "meeting2-en.html#for-january-to-do-list",
+    "objectID": "housing-en.html#for-january-to-do-list",
+    "href": "housing-en.html#for-january-to-do-list",
     "title": "TFG 2026/27",
     "section": "For January: to-do list",
     "text": "For January: to-do list\n\nWrite today’s summary in TFE and record the topic change in the meeting 1 section\nLiterature review chapter: 1,500–2,500 words\nDataset: province × year, with a short codebook (source, years, gaps)\nMethodology: first draft of the data and method section\nSend me everything by Fri 22 January\n\n\n\n\n\n\n\n\nStart reading with\n\n\nCochrane & Poot (2019) · González & Ortega (2013) · Saiz (2007) · Migration Advisory Committee (2026)\n\n\n\n\n\nThe literature review is about 20% of an 8,000–10,000-word TFG. Reading order: the MAC review (easiest), then Cochrane & Poot (the survey), then González & Ortega (the Spanish benchmark), then Saiz (rents). For each paper: question, data, method, result, relevance. 22 January is the internal date from the first meeting."
   },
   {
-    "objectID": "meeting2-en.html#next-dates",
-    "href": "meeting2-en.html#next-dates",
+    "objectID": "housing-en.html#next-dates",
+    "href": "housing-en.html#next-dates",
     "title": "TFG 2026/27",
     "section": "Next dates",
     "text": "Next dates\n\n\n\nWhen\nWhat\n\n\n\n\nFri 22 Jan\nLiterature, data and methodology (internal)\n\n\nMon 15 Feb\nIntermediate draft (internal)\n\n\n≤ 22 Feb\nIntermediate delivery in TFE (15% of the grade)\n\n\n≤ 16 Apr\nMeeting 3\n\n\n\n\nSource: official calendar. Internal dates as agreed in meeting 1.\n\n\nThere is no official meeting between now and the intermediate delivery, so 22 January works as the checkpoint. The intermediate draft should include literature, data and method, and first descriptive results."
-  },
-  {
-    "objectID": "index.html#quién-soy",
-    "href": "index.html#quién-soy",
-    "title": "TFG 2026/27",
-    "section": "Quién soy",
-    "text": "Quién soy\n\n\nElian Giordano\n\nInstitut d’Economia de Barcelona (IEB)\nFacultat d’Economia i Empresa, UAB\nJournal of Political Economy (JPE)\n\n\nÁreas de especialización\n\nDesarrollo económico\nHistoria económica y migración\nDesigualdad y movilidad social\nEvaluación de impacto\n\n\nFormación\n\nMáster en Desarrollo Económico, UC3M y Lund University\nGrado en Relaciones Internacionales, Unimi"
-  },
-  {
-    "objectID": "index.html#las-fases-de-un-tfg",
-    "href": "index.html#las-fases-de-un-tfg",
-    "title": "TFG 2026/27",
-    "section": "Las fases de un TFG",
-    "text": "Las fases de un TFG\n\n\n1 Pregunta de investigación Oct–nov\n\nQué queréis explicar\nObjetivo e hipótesis\nAcotada y viable\n\n\n\n2 Revisión de literatura Nov–ene\n\nQué se sabe ya\nQué falta: vuestra aportación\n\n\n\n3 Metodología Dic–feb\n\nDatos: fuentes y variables\nTécnica de análisis\n\n\n\n4 Análisis de datos Feb–may\n\nResultados\nDiscusión y límites\nConclusiones"
-  },
-  {
-    "objectID": "index.html#estructura-del-tfg-12",
-    "href": "index.html#estructura-del-tfg-12",
-    "title": "TFG 2026/27",
-    "section": "Estructura del TFG (1/2)",
-    "text": "Estructura del TFG (1/2)\n\n\nPortada\n\nTítulo y subtítulo (con dos puntos)\nAutor/a y tutor/a\nTitulación y centro\nFecha de entrega\nModelo oficial de la Facultat\n\n\nResumen y palabras clave\n\n200-500 palabras\n3-10 palabras clave\nLengua del trabajo (+ inglés)\n\nAgradecimientos\n\nTutor y colaboradores\n\nÍndice\n\nCapítulos con página"
-  },
-  {
-    "objectID": "index.html#estructura-del-tfg-22",
-    "href": "index.html#estructura-del-tfg-22",
-    "title": "TFG 2026/27",
-    "section": "Estructura del TFG (2/2)",
-    "text": "Estructura del TFG (2/2)\n\n\nIntroducción\n\nMotivación, objetivo, metodología e hipótesis\n\nCuerpo del trabajo\n\nCapítulos y apartados\nLiteratura, datos y método, resultados\nAcaba con las conclusiones\n\n\nBibliografía\n\nLista ordenada de las fuentes\nGestor de referencias\n\nAnexos\n\nNumerados\nIncluye el apéndice de uso de IA\n\n\nExtensión: 8.000–10.000 palabras (Normativa: unas 25 páginas)"
-  },
-  {
-    "objectID": "index.html#pregunta-de-investigación",
-    "href": "index.html#pregunta-de-investigación",
-    "title": "TFG 2026/27",
-    "section": "Pregunta de investigación",
-    "text": "Pregunta de investigación\n\nEspecífica\nCon periodo y lugar definidos\nCon datos accesibles\nRelevante: aporta algo\nAbordable antes de mayo\n\n\nSuelen empezar por «¿Qué efecto tuvo…?», «¿Cómo ha cambiado…?» o «¿Qué explica…?»"
-  },
-  {
-    "objectID": "index.html#ejemplos-de-preguntas",
-    "href": "index.html#ejemplos-de-preguntas",
-    "title": "TFG 2026/27",
-    "section": "Ejemplos de preguntas",
-    "text": "Ejemplos de preguntas\n\n\n\n\n\n\n\n\nTema\nPregunta concreta\nTipo\n\n\n\n\nMigración histórica\n¿Qué papel jugaron las redes de migrantes en la emigración de las provincias españolas a América entre 1880 y 1930?\nExplicativa\n\n\nHistoria colonial y riqueza\n¿Dejó el trabajo forzado en las minas coloniales de Perú efectos persistentes sobre el consumo actual de los hogares?\nCausal\n\n\nClima y migración\n¿Aumentaron las sequías la migración interna en el nordeste de Brasil entre 1990 y 2020?\nCausal\n\n\n\n\n\n\n\n\n\n\nPara inspiraros\n\n\nLeed TFG excelentes de la Facultat en el DDD: preguntas, estructura y extensión reales.\n\n\n\n\n\nUn ejemplo por tema. Son orientativos, no una lista cerrada: cada estudiante elige el tema concreto, el periodo, la geografía y el método. Títulos completos de los tres temas: “Los determinantes económicos de la migración histórica: lecciones de la era de las migraciones masivas”, “Historia colonial y riqueza contemporánea: las raíces de la desigualdad económica” y “Exposición al cambio climático y migración”."
-  },
-  {
-    "objectID": "index.html#buscar-literatura",
-    "href": "index.html#buscar-literatura",
-    "title": "TFG 2026/27",
-    "section": "Buscar literatura",
-    "text": "Buscar literatura\n\n\nDónde\n\nGoogle Scholar\nScopus\nRePEc / IDEAS\nSSRN y NBER\nResearchRabbit\nBiblioteca UAB\n\n\nCómo\n\nEmpezad con 3–5 artículos clave\nSeguid sus referencias… y quién los cita\nLeed: resumen → introducción → conclusiones\nUna tabla de lectura: pregunta, datos, método, resultado\nTodo en un gestor: Mendeley (UAB) o Zotero\n\n\n\nEl curso de la Biblioteca UAB (MO86830, Campus Virtual) enseña a buscar información, citar y redactar un trabajo académico. Comprobar el acceso a Scopus desde la red UAB. ResearchRabbit sirve para explorar redes de citas a partir de unos pocos artículos clave (quién cita a quién); verificar siempre que cada referencia existe."
-  },
-  {
-    "objectID": "index.html#formular-la-hipótesis",
-    "href": "index.html#formular-la-hipótesis",
-    "title": "TFG 2026/27",
-    "section": "Formular la hipótesis",
-    "text": "Formular la hipótesis\n\nAfirmación contrastable: puede resultar falsa\nDice qué variable afecta a cuál, y en qué sentido\nSe apoya en teoría o literatura\n\n\n\n\n\n\n\n\nEjemplo\n\n\nPregunta: ¿Redujo la subida del salario mínimo de 2019 el empleo juvenil?\nHipótesis: la subida redujo el empleo de los jóvenes con salarios cercanos al mínimo.\n\n\n\n\n\nEn una revisión teórica: objetivos y pregunta guía en lugar de hipótesis."
-  },
-  {
-    "objectID": "index.html#tipos-de-análisis",
-    "href": "index.html#tipos-de-análisis",
-    "title": "TFG 2026/27",
-    "section": "Tipos de análisis",
-    "text": "Tipos de análisis\n\nRevisión crítica de la literatura\nDescriptivo: tendencias y comparaciones\nRegresión (econometría)\nInferencia causal: diferencias en diferencias, variables instrumentales, discontinuidad\nEstudio de caso (cualitativo)\nModelización o simulación\n\n\nEl método depende de la pregunta y de los datos. Software a acordar: Stata, R o Python.\n\n\nNormativa §7.1: orientación teórica (revisión crítica + análisis propio) u orientación aplicada (hipótesis sustentadas en un marco teórico contrastadas con las técnicas del grado)."
-  },
-  {
-    "objectID": "index.html#cómo-citar",
-    "href": "index.html#cómo-citar",
-    "title": "TFG 2026/27",
-    "section": "Cómo citar",
-    "text": "Cómo citar\n\n\n\nUn estilo: Harvard o Chicago\nLista alfabética\nEn el texto: (Card y Krueger, 1994)\nCitado = en la lista\nEn línea: DOI o URL + fecha\n\n\n\nAlonso, J.A. ed., 2005. Lecciones sobre economía mundial: introducción al desarrollo y a las relaciones económicas internacionales. 2ª ed. Madrid: Civitas.\nCard, D. and Krueger, A.B., 1994. Minimum wages and employment: a case study of the fast-food industry in New Jersey and Pennsylvania. American Economic Review, 84(4), pp.772-793.\n\n\n\n\n\n\n\n\n\nMi consejo\n\n\nCitad al descargar: guardad la referencia cuando bajéis el artículo, la fuente o los datos. Si no, en unos meses no recordaréis de dónde salió.\n\n\n\n\n\nFormato según la guía Harvard (Anglia Ruskin) de la Biblioteca UAB, edición julio 2025; también hay guía Chicago (edición julio 2026). El primer ejemplo es el de libro de la propia guía; el de artículo se ha verificado en RePEc y NBER. El uso de IA no se cita en la bibliografía: va en el apéndice (norma de la Facultat)."
-  },
-  {
-    "objectID": "index.html#evitar-el-plagio",
-    "href": "index.html#evitar-el-plagio",
-    "title": "TFG 2026/27",
-    "section": "Evitar el plagio",
-    "text": "Evitar el plagio\n\nReelaborad el texto con vuestras palabras, y citad igualmente la fuente\nSi copiáis literalmente: comillas y cita con autor, año y página\nCitas literales de 200 palabras como máximo\nCitad también tablas, gráficos e imágenes\n\n\n\n\n\n\n\n\nPlagio\n\n\nCopiar sin citar: nota 0 y posibles sanciones.\n\n\n\n\n\n\n\n\n\n\n\nCómo evitarlo\n\n\nCurso de la Biblioteca (MO86830): inscripción\n\n\n\n\n\nFuente: Normativa §7.3 (plagio: apropiarse de una idea, dato o contenido sin citar a su autor; copiar párrafos, tablas, imágenes o gráficos sin citar la fuente; no se aceptan citas de más de 200 palabras; nota de cero más las medidas sancionadoras de UAB y FEiE). La Facultat comprueba la originalidad de los TFG entregados (muestreo 24–28 mayo). Citar con autor, año y página es la práctica habitual en las citas literales."
-  },
-  {
-    "objectID": "index.html#ia-para-qué-sí-para-qué-no",
-    "href": "index.html#ia-para-qué-sí-para-qué-no",
-    "title": "TFG 2026/27",
-    "section": "IA: para qué sí, para qué no",
-    "text": "IA: para qué sí, para qué no\n\n\n\n\n\n\n\n\n\nSí\n\n\n\nRevisar el texto\nEscribir el código\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo\n\n\n\nBibliografía: inventa referencias\nEscribir el texto: se detecta\n\n\n\n\n\n\n\n\n\n\n\n\n\nIdea clave\n\n\nLa IA es un revisor adicional, no quien hace el trabajo.\n\n\n\n\n\nCriterio del tutor: la IA sirve para revisar (gramática, claridad, coherencia) y para ayudar con el código; no para la bibliografía (las IA inventan citas verosímiles; verificad siempre que cada referencia existe) ni para redactar. La Normativa (§7.3) indica que la Facultat utiliza una aplicación para verificar la originalidad de los TFG presentados."
-  },
-  {
-    "objectID": "index.html#ia-la-norma-de-la-universidad",
-    "href": "index.html#ia-la-norma-de-la-universidad",
-    "title": "TFG 2026/27",
-    "section": "IA: la norma de la universidad",
-    "text": "IA: la norma de la universidad\n\nSolo en tareas aprobadas por el tutor\nNunca para secciones completas\nTodo uso, en un apéndice: herramienta + prompts exactos\nSin declararlo: mala praxis\n\n\n\n\n\n\n\n\nConsecuencia\n\n\nSuspenso (0) y posibles sanciones.\n\n\n\n\n\nFuente: Normativa, apartado 7.3, y guía docente.\n\n\nFuente: sesión de coordinación (reglas de IA), guía docente (uso de IA sin mencionarlo e informar al tutor = mala praxis, art. 7.3 de la Normativa) y Normativa §7.3 (falsificación y plagio = nota de cero más medidas sancionadoras). La sesión de coordinación indica también que no declararlo puede suponer una deducción parcial o total de la nota o medidas disciplinarias. Muestreo antiplagio: 24–28 mayo."
-  },
-  {
-    "objectID": "index.html#cómo-trabajamos",
-    "href": "index.html#cómo-trabajamos",
-    "title": "TFG 2026/27",
-    "section": "Cómo trabajamos",
-    "text": "Cómo trabajamos\n\n\nNormas oficiales\n\n4 reuniones: 3 de seguimiento + la defensa\nLa iniciativa es vuestra\nTras cada reunión: resumen en TFE\nPlan de trabajo pactado tras la R2\n\n\nMis normas (propuesta)\n\nMaterial 48 h antes\nCada reunión acaba con tareas y fecha\nDudas solo por correo\n\n¿Urgente? Poned en copia mi correo personal (eliangiordano7@gmail.com)\n\nBorradores en un documento compartido: Google Docs u Overleaf\nAvisad pronto si os atascáis\n\n\n\nFuente: Normativa §5, §7.2; sesión de coordinación (comunicación con el tutor: la iniciativa debe partir del estudiante). Las “normas” de la columna derecha son propuesta del tutor. El documento compartido sirve para dar feedback durante la redacción; la entrega oficial sigue siendo el PDF en TFE."
-  },
-  {
-    "objectID": "index.html#la-web-del-tfg",
-    "href": "index.html#la-web-del-tfg",
-    "title": "TFG 2026/27",
-    "section": "La web del TFG",
-    "text": "La web del TFG\n\n\nWeb de la Facultat\n\nCalendario\nNormativa\nGuía docente\n\n\nTFE\n\nResumen tras cada reunión\nEntregas en PDF\nPósters y notas\n\n\n\n\n\n\n\n\n\nCurso recomendado: matriculaos\n\n\nMO86830: Herramientas y recursos que te ofrecen las bibliotecas UAB para realizar tu trabajo académico. Inscripción en el Campus Virtual\n\n\n\n\n\nAcceso a TFE con NIU. Tras la fecha límite de entrega no se puede modificar el documento (Normativa §5). El enlace de inscripción pide el acceso con la cuenta UAB."
-  },
-  {
-    "objectID": "index.html#fechas-oficiales",
-    "href": "index.html#fechas-oficiales",
-    "title": "TFG 2026/27",
-    "section": "Fechas oficiales",
-    "text": "Fechas oficiales\n\n\n\nCuándo\nQué\n\n\n\n\n21 oct – 6 nov\nReunión 1\n\n\n≤ 4 dic\nReunión 2\n\n\n≤ 22 feb\nEntrega intermedia (borrador, PDF)\n\n\n≤ 16 abr\nReunión 3\n\n\n19 may, 23:59\nEntrega final (PDF)\n\n\n20, 21, 24, 25 may\nDefensa oral ante el tutor\n\n\n18, 21, 22 jun\nJornadas de Pósters (opcional)\n\n\n\n\nPósters: confirmar antes del 2 jun y subir el PDF antes del 8 jun. Fuente: calendario oficial.\n\n\nFuente: Calendari d’activitats TFG 2026/27 (convocatoria ordinaria de junio). Notas del tutor: ≤ 28 may. Muestreo antiplagio: 24–28 may. Actas: hasta el 28 jun."
-  },
-  {
-    "objectID": "index.html#mis-fechas-internas-propuesta",
-    "href": "index.html#mis-fechas-internas-propuesta",
-    "title": "TFG 2026/27",
-    "section": "Mis fechas internas (propuesta)",
-    "text": "Mis fechas internas (propuesta)\n\n\n\n\n\n\n\n\nFecha\nQué me entregáis\nOficial\n\n\n\n\nVie 20 nov\nCurso de la Biblioteca UAB (MO86830)\nAntes de R2\n\n\nVie 27 nov\nEstructura del TFG: pregunta, hipótesis, método, datos, índice\nR2 ≤ 4 dic\n\n\nVie 22 ene\nLiteratura y datos\n—\n\n\nLun 15 feb\nBorrador intermedio\n≤ 22 feb\n\n\nVie 9 abr\nResultados\nR3 ≤ 16 abr\n\n\nMié 5 may\nBorrador completo\n—\n\n\nVie 14 may\nVersión final\n19 may\n\n\nLun 17 may\nPresentación oral ensayada\n20–25 may\n\n\n\n\nTodas las fechas internas son propuesta del tutor, editables. Días de la semana comprobados con el calendario 2026/27."
-  },
-  {
-    "objectID": "index.html#evaluación",
-    "href": "index.html#evaluación",
-    "title": "TFG 2026/27",
-    "section": "Evaluación",
-    "text": "Evaluación\n\n\nIntermedia15 %\n\n\nMemoria final65 %\n\n\nDefensa oral20 %\n\n\n\nNota del tutor sobre 10\nEn el acta, máximo 7,0\nCon 7,0: Pósters (opcional) para subir nota\nSolo los excelentes se publican en el DDD\n\n\nFuente: Normativa, apartado 8.\n\n\nFuente: Normativa §8.2 y §8.3; guía docente (desde 6,95 se registra 7,0). El tribunal de pósters solo puede bajar de 7 si detecta mala praxis; si participáis, su nota es la final. Nota: el pie de la rúbrica (Annex 2) menciona 6,85 y la sesión de coordinación 6,9; se usa 6,95 de la guía docente. Revisión de nota: solicitud razonada al tutor por correo, 10 días (Normativa §8.4)."
-  },
-  {
-    "objectID": "index.html#para-la-2ª-reunión-lista-de-tareas",
-    "href": "index.html#para-la-2ª-reunión-lista-de-tareas",
-    "title": "TFG 2026/27",
-    "section": "Para la 2ª reunión: lista de tareas",
-    "text": "Para la 2ª reunión: lista de tareas\n\nElegir tema concreto, periodo y geografía\nEscribir la pregunta de investigación y la hipótesis\nLeer 3–5 artículos clave\nIdentificar los datos y el método\nProponer un índice provisional\nHacer el curso de la Biblioteca (MO86830)\nAnotar el resumen de hoy en TFE\nEnviármelo todo el 27 de noviembre\n\n\nReunión 2: como máximo el 4 de diciembre.\n\n\nFuente: calendario oficial (R2 ≤ 4 dic) y Normativa §5 (resumen en TFE tras cada reunión). El 27 de noviembre es la fecha interna propuesta por el tutor."
   }
 ]
