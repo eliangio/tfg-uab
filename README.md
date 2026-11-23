@@ -5,7 +5,7 @@ Quarto (reveal.js) slides for the meetings with TFG students (Facultat d'Economi
 | Meeting | Español | English |
 |---|---|---|
 | 1. General guidance | `index.qmd` | `index-en.qmd` |
-| 2. Immigration and housing | `meeting2.qmd` | `meeting2-en.qmd` |
+| 2. Housing (student 1) | `housing.qmd` | `housing-en.qmd` |
 
 Each title slide links to the other version.
 

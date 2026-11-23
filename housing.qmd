@@ -6,7 +6,7 @@ author:
     affiliations:
       - name: "Institut d'Economia de Barcelona (IEB)"
       - name: "Facultat d'Economia i Empresa (UAB)"
-institute: "[English version](meeting2-en.html)"
+institute: "[English version](housing-en.html)"
 date: "2026-11-24"
 date-format: "MMMM YYYY"
 lang: es
