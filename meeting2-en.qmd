@@ -1,0 +1,128 @@
+---
+title: "TFG 2026/27"
+subtitle: "Second meeting: immigration and housing"
+author:
+  - name: Elian Giordano
+    affiliations:
+      - name: "Institut d'Economia de Barcelona (IEB)"
+      - name: "Facultat d'Economia i Empresa (UAB)"
+institute: "[Versión en español](meeting2.html)"
+date: "2026-11-24"
+date-format: "MMMM YYYY"
+lang: en
+format:
+  revealjs:
+    theme: [default, theme.scss]
+    margin: 0.05
+    slide-number: true
+    transition: fade
+    hash: true
+    footer: "[Faculty website: TFG 2026/27](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)"
+    embed-resources: true
+    title-slide-attributes:
+      data-background-image: logo-feie.png
+      data-background-size: 40%
+      data-background-position: 17.5% 6.4%
+      data-background-repeat: no-repeat
+---
+
+## Where we are
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Good"}
+- Period and geography: **Spain, 2015–2025**
+- A **testable hypothesis**
+- A clear **data plan**
+- Library course **done**
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-important title="To fix"}
+- **One** project, not three
+- No source yet for **prices and rents**
+- Literature: drop the PAH paper
+- Outline: **shorter**, built around the hypothesis
+:::
+:::
+:::
+
+::: notes
+Start with what is good: the proposal already has period, geography, hypothesis and data. The two alternative titles (construction labour) become a discussion section, not separate projects. The PAH paper is about a social movement and the mortgage crisis, so it does not support the question. The AI-generated outline was correctly declared; it needs fewer subsections for 8,000–10,000 words.
+:::
+
+## Research question
+
+::: {.small .muted}
+**Current version:** *To what extent has immigration-related population growth been associated with increasing housing demand, supply shortages and rising housing prices in Spain between 2015 and 2025?*
+:::
+
+::: {.callout-note title="Proposal"}
+**Is immigration-driven population growth associated with faster growth in housing prices and rents across Spanish provinces, and is this association stronger where new construction lagged behind?**
+:::
+
+- **H1:** provinces with more immigration see faster price and rent growth
+- **H2:** the effect is larger where new housing did not keep up
+
+::: {.small .muted}
+Business angle: returns for **landlords and investors**, response of **construction**.
+:::
+
+::: notes
+Goal of the meeting: leave with the final question. Three changes from her version: one outcome block (prices and rents) instead of three; a unit of analysis (provinces, or regions if the data are not available); the supply side as a test (H2), not as a separate outcome. Period: 2015 to the latest year available, probably 2023 or 2024 for rents. Say "associated", not "caused": migrants also move to regions that are already booming.
+:::
+
+## Model and data
+
+ΔPrice~pt~ = β·Immig~pt~ + γ·(Immig~pt~ × Supply~pt~) + α~p~ + τ~t~ + ε~pt~
+
+::: {.small .muted}
+Province *p*, year *t*. α~p~: fixed differences between provinces. τ~t~: national shocks (interest rates, COVID).
+:::
+
+| Variable | Source |
+|---|---|
+| Foreign-born population | INE, *Padrón continuo* |
+| House prices | INE price index; Ministry of Housing |
+| Rents | Ministry of Housing rental index (SERPAVI) |
+| New construction | Ministry of Housing: permits, completions |
+| Controls | INE: unemployment, income |
+
+::: notes
+H1 is beta, H2 is gamma. Immig: growth in the foreign-born population relative to the previous year's total population. Supply: completions or permits relative to population growth. About 50 provinces x 9-10 years = 450-500 observations, enough for a fixed-effects regression. Check coverage first: SERPAVI ends earlier than the other series. Endogeneity goes in the limitations; a shift-share instrument (Card 2001) can be mentioned as future research. Software to agree: Stata, R or Gretl.
+:::
+
+## For January: to-do list
+
+- [ ] Write **today's summary in TFE** and record the **topic change** in the meeting 1 section
+- [ ] **Literature review** chapter: 1,500–2,500 words
+- [ ] **Dataset**: province × year, with a short codebook (source, years, gaps)
+- [ ] **Methodology**: first draft of the data and method section
+- [ ] **Send me everything by Fri 22 January**
+
+::: {.callout-tip title="Start reading with"}
+Cochrane & Poot (2019) · González & Ortega (2013) · Saiz (2007) · Migration Advisory Committee (2026)
+:::
+
+::: notes
+The literature review is about 20% of an 8,000–10,000-word TFG. Reading order: the MAC review (easiest), then Cochrane & Poot (the survey), then González & Ortega (the Spanish benchmark), then Saiz (rents). For each paper: question, data, method, result, relevance. 22 January is the internal date from the first meeting.
+:::
+
+## Next dates
+
+| When | What |
+|---|---|
+| **Fri 22 Jan** | Literature, data and methodology (internal) |
+| Mon 15 Feb | Intermediate draft (internal) |
+| **≤ 22 Feb** | **Intermediate delivery** in TFE (15% of the grade) |
+| ≤ 16 Apr | **Meeting 3** |
+
+::: {.small .muted}
+Source: [official calendar](https://www.uab.cat/doc/DocCalendariTFGFEiE_26-27). Internal dates as agreed in meeting 1.
+:::
+
+::: notes
+There is no official meeting between now and the intermediate delivery, so 22 January works as the checkpoint. The intermediate draft should include literature, data and method, and first descriptive results.
+:::
+
+# Questions? {background-color="#40666e"}

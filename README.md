@@ -1,11 +1,11 @@
-# TFG 2026/27: first meeting / primera reunión
+# TFG 2026/27: meeting slides / diapositivas de las reuniones
 
-Quarto (reveal.js) slides for the first meeting with TFG students (Facultat d'Economia i Empresa, UAB).
+Quarto (reveal.js) slides for the meetings with TFG students (Facultat d'Economia i Empresa, UAB).
 
-| Language | Source |
-|---|---|
-| Español | `index.qmd` |
-| English | `index-en.qmd` |
+| Meeting | Español | English |
+|---|---|---|
+| 1. General guidance | `index.qmd` | `index-en.qmd` |
+| 2. Immigration and housing | `meeting2.qmd` | `meeting2-en.qmd` |
 
 Each title slide links to the other version.
 

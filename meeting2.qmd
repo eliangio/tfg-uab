@@ -1,0 +1,128 @@
+---
+title: "TFG 2026/27"
+subtitle: "Segunda reunión: inmigración y vivienda"
+author:
+  - name: Elian Giordano
+    affiliations:
+      - name: "Institut d'Economia de Barcelona (IEB)"
+      - name: "Facultat d'Economia i Empresa (UAB)"
+institute: "[English version](meeting2-en.html)"
+date: "2026-11-24"
+date-format: "MMMM YYYY"
+lang: es
+format:
+  revealjs:
+    theme: [default, theme.scss]
+    margin: 0.05
+    slide-number: true
+    transition: fade
+    hash: true
+    footer: "[Web de la Facultat: TFG 2026/27](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)"
+    embed-resources: true
+    title-slide-attributes:
+      data-background-image: logo-feie.png
+      data-background-size: 40%
+      data-background-position: 17.5% 6.4%
+      data-background-repeat: no-repeat
+---
+
+## Dónde estamos
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Bien"}
+- Periodo y geografía: **España, 2015–2025**
+- Una **hipótesis contrastable**
+- Un **plan de datos** claro
+- Curso de la Biblioteca **hecho**
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-important title="A corregir"}
+- **Un** proyecto, no tres
+- Falta una fuente de **precios y alquileres**
+- Literatura: quitar el artículo de la PAH
+- Índice: **más corto**, en torno a la hipótesis
+:::
+:::
+:::
+
+::: notes
+Empezar por lo positivo: la propuesta ya tiene periodo, geografía, hipótesis y datos. Los dos títulos alternativos (mano de obra en la construcción) pasan a ser una sección de discusión, no proyectos aparte. El artículo de la PAH trata de un movimiento social y de la crisis hipotecaria, así que no apoya la pregunta. El índice generado con IA se declaró correctamente; necesita menos subapartados para 8.000–10.000 palabras.
+:::
+
+## Pregunta de investigación
+
+::: {.small .muted}
+**Versión actual:** *To what extent has immigration-related population growth been associated with increasing housing demand, supply shortages and rising housing prices in Spain between 2015 and 2025?*
+:::
+
+::: {.callout-note title="Propuesta"}
+**¿Se asocia el crecimiento de la población por inmigración con una mayor subida de precios y alquileres en las provincias españolas, y es más fuerte donde la construcción nueva se quedó atrás?**
+:::
+
+- **H1:** más inmigración, mayor subida de precios y alquileres
+- **H2:** efecto mayor donde la vivienda nueva no siguió el ritmo
+
+::: {.small .muted}
+Enfoque empresarial: rentabilidad para **propietarios e inversores**, respuesta de la **construcción**.
+:::
+
+::: notes
+Objetivo de la reunión: salir con la pregunta definitiva. Tres cambios respecto a su versión: un solo bloque de resultados (precios y alquileres) en lugar de tres; una unidad de análisis (provincias, o comunidades autónomas si no hay datos); la oferta como contraste (H2), no como resultado aparte. Periodo: de 2015 al último año disponible, probablemente 2023 o 2024 para los alquileres. Decir "se asocia", no "causa": los inmigrantes también se van a regiones que ya están creciendo. El TFG se escribe en inglés: la versión actual se deja tal como la escribió.
+:::
+
+## Modelo y datos
+
+ΔPrecio~pt~ = β·Inmig~pt~ + γ·(Inmig~pt~ × Oferta~pt~) + α~p~ + τ~t~ + ε~pt~
+
+::: {.small .muted}
+Provincia *p*, año *t*. α~p~: diferencias fijas entre provincias. τ~t~: shocks nacionales (tipos de interés, COVID).
+:::
+
+| Variable | Fuente |
+|---|---|
+| Población nacida en el extranjero | INE, *Padrón continuo* |
+| Precios de la vivienda | INE, índice de precios; Ministerio de Vivienda |
+| Alquileres | Ministerio de Vivienda, índice de alquiler (SERPAVI) |
+| Construcción nueva | Ministerio de Vivienda: visados, viviendas terminadas |
+| Controles | INE: paro, renta |
+
+::: notes
+H1 es beta, H2 es gamma. Inmig: crecimiento de la población nacida en el extranjero respecto a la población total del año anterior. Oferta: viviendas terminadas o visados respecto al crecimiento de la población. Unas 50 provincias x 9-10 años = 450-500 observaciones, suficiente para una regresión con efectos fijos. Comprobar antes la cobertura: SERPAVI acaba antes que las demás series. La endogeneidad va en las limitaciones; un instrumento shift-share (Card 2001) puede mencionarse como investigación futura. Software a acordar: Stata, R o Gretl.
+:::
+
+## Para enero: lista de tareas
+
+- [ ] Escribir el **resumen de hoy en TFE** y dejar constancia del **cambio de tema** en el apartado de la reunión 1
+- [ ] Capítulo de **revisión de la literatura**: 1.500–2.500 palabras
+- [ ] **Base de datos**: provincia × año, con un breve libro de códigos (fuente, años, huecos)
+- [ ] **Metodología**: primer borrador de la sección de datos y método
+- [ ] **Enviármelo todo antes del viernes 22 de enero**
+
+::: {.callout-tip title="Para empezar a leer"}
+Cochrane & Poot (2019) · González & Ortega (2013) · Saiz (2007) · Migration Advisory Committee (2026)
+:::
+
+::: notes
+La revisión de la literatura es aproximadamente el 20% de un TFG de 8.000–10.000 palabras. Orden de lectura: el informe del MAC (el más fácil), luego Cochrane & Poot (la revisión), luego González & Ortega (la referencia para España), luego Saiz (alquileres). Para cada artículo: pregunta, datos, método, resultado, relevancia. El 22 de enero es la fecha interna de la primera reunión.
+:::
+
+## Próximas fechas
+
+| Cuándo | Qué |
+|---|---|
+| **Vie 22 ene** | Literatura, datos y metodología (interna) |
+| Lun 15 feb | Borrador intermedio (interna) |
+| **≤ 22 feb** | **Entrega intermedia** en TFE (15% de la nota) |
+| ≤ 16 abr | **Reunión 3** |
+
+::: {.small .muted}
+Fuente: [calendario oficial](https://www.uab.cat/doc/DocCalendariTFGFEiE_26-27). Fechas internas según lo acordado en la reunión 1.
+:::
+
+::: notes
+No hay ninguna reunión oficial entre hoy y la entrega intermedia, así que el 22 de enero sirve de punto de control. El borrador intermedio debería incluir literatura, datos y método, y unos primeros resultados descriptivos.
+:::
+
+# ¿Preguntas? {background-color="#40666e"}
