@@ -1,0 +1,146 @@
+---
+title: "TFG 2026/27"
+subtitle: "Segunda reunión: historia colonial y riqueza contemporánea"
+author:
+  - name: Elian Giordano
+    affiliations:
+      - name: "Institut d'Economia de Barcelona (IEB)"
+      - name: "Facultat d'Economia i Empresa (UAB)"
+date: "2026-11-26"
+date-format: "MMMM YYYY"
+lang: es
+format:
+  revealjs:
+    theme: [default, theme.scss]
+    margin: 0.05
+    slide-number: true
+    transition: fade
+    hash: true
+    footer: "[Web de la Facultat: TFG 2026/27](https://www.uab.cat/web/estudiar/graus/oferta-de-graus/treball-de-fi-de-grau/tfg-2026-2027-1345994448721.html)"
+    embed-resources: true
+    title-slide-attributes:
+      data-background-image: logo-feie.png
+      data-background-size: 40%
+      data-background-position: 17.5% 6.4%
+      data-background-repeat: no-repeat
+---
+
+## Dónde estamos
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Tema 1: ferrocarriles"}
+- Líneas para llevar **mercancías a la costa**, no personas
+- **Riqueza concentrada** y poco comercio con los vecinos
+- Oro y cacao (Ghana); estaño y aceite de palma (Nigeria)
+- **Kenia frente a Tanzania**
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-note title="Tema 2: fronteras"}
+- Fronteras rectas que **parten grupos étnicos** (masáis; ewes) y juntan rivales
+- Fragmentación política, riesgo de conflicto y menos inversión
+:::
+:::
+:::
+
+::: {.small .muted}
+Los dos comparten un enfoque **geográfico** y de **persistencia histórica**.
+:::
+
+::: notes
+Resumen de lo que me enviaste. Título provisional: «Historia colonial y riqueza contemporánea: las raíces de la desigualdad económica». Los dos temas parten de la misma pregunta: cómo explica una decisión colonial (una línea de tren, una frontera) las diferencias de hoy. Hoy comparamos los dos y vemos cómo se trabajaría cada uno; la elección es tuya.
+:::
+
+## Dos temas, dos grados de dificultad
+
+::: {.columns}
+::: {.column width="40%"}
+::: {.callout-tip title="Tema 1: ferrocarriles"}
+- Está **más desarrollado**
+- **Datos** más fáciles de encontrar y de trabajar
+:::
+:::
+::: {.column width="60%"}
+::: {.callout-note title="Tema 2: fronteras"}
+- Los datos **no son** el problema principal: hay una base pública (Michalopoulos y Papaioannou, 2016)
+- La dificultad son los **mecanismos**: cultura, instituciones, confianza, conflicto
+- La causalidad descansa en **supuestos fuertes**
+:::
+:::
+:::
+
+**La decisión es tuya.** El tema 2 es viable, pero más exigente.
+
+::: notes
+La base de Michalopoulos y Papaioannou cruza los territorios étnicos del mapa de Murdock con las fronteras nacionales. Ellos argumentan que, salvo por la superficie y las masas de agua, los grupos étnicos partidos y no partidos se parecían antes de la partición, y de ahí sacan sus comparaciones. Pero «se parecían en lo que podemos medir» es un supuesto, no una prueba. Ver cómo separar cultura, instituciones, confianza y conflicto es lo que hace difícil el tema 2. Con el tema 1 es más fácil llegar a un TFG acotado; con el tema 2 hay que ser muy cuidadosa al decir «causa». El archivo de réplica de M&P está en la página del artículo en la AEA; lo comprobamos en la parte de datos.
+:::
+
+## Kenia y Tanzania: qué dice una comparación
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Lo que permite"}
+**Describir** las diferencias entre dos países y plantear hipótesis.
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-warning title="Lo que no permite"}
+**Atribuir** la diferencia a una sola causa.
+:::
+:::
+:::
+
+Entre los dos países cambian muchas más cosas que el sistema heredado: la **geografía**, los **líderes**, el **calendario**, la **ayuda exterior**…
+
+::: notes
+Con dos observaciones, cualquier diferencia tiene muchas explicaciones posibles. Un matiz histórico: Tanganyika fue colonia alemana hasta la Primera Guerra Mundial y después territorio bajo mandato británico, así que «las dos fueron colonias británicas» es una simplificación. De hecho, la frontera entre Kenia y Tanzania la trazaron autoridades británicas y alemanas entre 1886 y 1890 (lo cuenta Miguel, 2004). Es otro motivo para no atribuir toda la diferencia al sistema heredado.
+:::
+
+## Miguel (2004): una comparación cuidadosa
+
+- **Dos distritos vecinos** a ambos lados de una frontera colonial arbitraria: Busia (Kenia) y Meatu (Tanzania)
+- **Dentro de cada distrito**, compara comunidades con más y menos diversidad étnica
+- Kenia: diversidad media = **25% menos** de financiación escolar local. Tanzania: casi **cero**
+- Lo atribuye a la **construcción nacional** (lengua, educación, instituciones)
+
+::: {.small .muted}
+Su foco no es el ferrocarril: sirve de modelo de método, no de apoyo directo al tema 1.
+:::
+
+::: {.refs}
+Miguel, E., 2004. [Tribe or Nation? Nation Building and Public Goods in Kenya versus Tanzania](https://emiguel.econ.berkeley.edu/research/tribe-or-nation-nation-building-and-public-goods-in-kenya-versus-tanzania/). *World Politics*, 56(3), pp.327-362.
+:::
+
+::: notes
+Es un estudio comparativo muy cuidadoso, pero no compara «Kenia» con «Tanzania» a secas: son dos distritos escogidos por ser parecidos, con decenas de escuelas y pueblos dentro de cada uno, y estima la relación entre diversidad étnica y bienes públicos en cada distrito (en el texto, 84 escuelas con datos completos en Busia y 71 pueblos en Meatu). Miguel reconoce que no puede separar los componentes del paquete tanzano (lengua, educación, instituciones). Discute también el periodo de socialismo (ujamaa, villagización forzosa) como otra divergencia entre los dos países, pero no lo presenta como la explicación de los mejores resultados de Tanzania: si acaso, dice, tendió a avivar las tensiones. Por eso tu planteamiento (Kenia mantiene el sistema heredado, Tanzania adopta el socialismo africano) no es exactamente lo que Miguel contrasta. Usa su artículo como ejemplo de cómo hacer creíble una comparación, y fíjate en que la frontera arbitraria es parte de su diseño: conecta con el tema 2.
+:::
+
+## ¿Descriptivo o causal? Decídelo pronto
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Descriptivo o comparativo"}
+- Comparar Kenia y Tanzania (o Kenia y Ghana)
+- Describir con cuidado qué difiere y proponer explicaciones
+- Más sencillo de abarcar
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-note title="Algo más causal"}
+- Usar variación **dentro de un país**
+- Por ejemplo: distritos **cercanos** frente a **lejanos** a las líneas de tren
+- Pide más datos y más cuidado
+:::
+:::
+:::
+
+::: {.small .muted}
+Las dos opciones valen para un TFG. Lo importante es que la pregunta y el método vayan a la par.
+:::
+
+::: notes
+Es la decisión de método más importante después de elegir tema. Una comparación de dos países describe; para acercarse a una causa hace falta comparar unidades parecidas dentro del mismo país, que es lo que hacen Jedwab, Kerby y Moradi en Kenia (celdas con línea de tren frente a celdas vecinas sin ella) y Miguel (comunidades dentro de dos distritos). Un TFG descriptivo bien hecho es mejor que uno causal con supuestos que no se sostienen.
+:::
+
+# ¿Preguntas? {background-color="#40666e"}
