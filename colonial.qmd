@@ -73,7 +73,7 @@ Resumen de lo que me enviaste. Título provisional: «Historia colonial y riquez
 **La decisión es tuya.** El tema 2 es viable, pero más exigente.
 
 ::: notes
-La base de Michalopoulos y Papaioannou cruza los territorios étnicos del mapa de Murdock con las fronteras nacionales. Ellos argumentan que, salvo por la superficie y las masas de agua, los grupos étnicos partidos y no partidos se parecían antes de la partición, y de ahí sacan sus comparaciones. Pero «se parecían en lo que podemos medir» es un supuesto, no una prueba. Ver cómo separar cultura, instituciones, confianza y conflicto es lo que hace difícil el tema 2. Con el tema 1 es más fácil llegar a un TFG acotado; con el tema 2 hay que ser muy cuidadosa al decir «causa». El archivo de réplica de M&P está en la página del artículo en la AEA; lo comprobamos en la parte de datos.
+La base de Michalopoulos y Papaioannou cruza los territorios étnicos del mapa de Murdock con las fronteras nacionales. Ellos argumentan que, salvo por la superficie y las masas de agua, los grupos étnicos partidos y no partidos se parecían antes de la partición, y de ahí sacan sus comparaciones. Pero «se parecían en lo que podemos medir» es un supuesto, no una prueba. Separar cultura, instituciones, confianza y conflicto es lo que hace difícil el tema 2. Con el tema 1 es más fácil llegar a un TFG acotado; con el tema 2 hay que ser muy cuidadosa al decir «causa». El archivo de réplica de M&P está en la página del artículo en la AEA; lo comprobamos en la parte de datos.
 :::
 
 ## Kenia y Tanzania: qué dice una comparación
@@ -94,7 +94,7 @@ La base de Michalopoulos y Papaioannou cruza los territorios étnicos del mapa d
 Entre los dos países cambian muchas más cosas que el sistema heredado: la **geografía**, los **líderes**, el **calendario**, la **ayuda exterior**…
 
 ::: notes
-Con dos observaciones, cualquier diferencia tiene muchas explicaciones posibles. Un matiz histórico: Tanganyika fue colonia alemana hasta la Primera Guerra Mundial y después territorio bajo mandato británico, así que «las dos fueron colonias británicas» es una simplificación. De hecho, la frontera entre Kenia y Tanzania la trazaron autoridades británicas y alemanas entre 1886 y 1890 (lo cuenta Miguel, 2004). Es otro motivo para no atribuir toda la diferencia al sistema heredado.
+Con dos observaciones, cualquier diferencia tiene muchas explicaciones posibles. Un matiz histórico: Tanganica fue colonia alemana hasta la Primera Guerra Mundial y después territorio bajo mandato británico, así que «las dos fueron colonias británicas» es una simplificación. De hecho, la frontera entre Kenia y Tanzania la trazaron autoridades británicas y alemanas entre 1886 y 1890 (lo cuenta Miguel, 2004). Es otro motivo para no atribuir toda la diferencia al sistema heredado.
 :::
 
 ## Miguel (2004): una comparación cuidadosa
@@ -217,7 +217,7 @@ Comprueba que los archivos de réplica **se descargan y se abren**.
 :::
 
 ::: notes
-Jedwab y Moradi (2016): la réplica está en Harvard Dataverse (doi 10.7910/DVN/29908), con licencia CC0; hay un único archivo. Michalopoulos y Papaioannou: la página del artículo en la AEA enumera un paquete de réplica; el proyecto equivalente en openICPSR muestra código, así que hay que abrirlo para ver si incluye los datos. De Jedwab, Kerby y Moradi (2017) no he encontrado un archivo de réplica público: pregúntate si hace falta escribir a los autores. Es justo lo que quiero que compruebes tú antes de la próxima reunión.
+Jedwab y Moradi (2016): la réplica está en Harvard Dataverse (doi 10.7910/DVN/29908), con licencia CC0; hay un único archivo. Michalopoulos y Papaioannou: la página del artículo en la AEA enumera un paquete de réplica; el proyecto equivalente en openICPSR muestra código, así que hay que abrirlo para ver si incluye los datos. De Jedwab, Kerby y Moradi (2017) no he encontrado un archivo de réplica público: comprueba tú si existe o si habría que escribir a los autores. Es justo lo que quiero que compruebes tú antes de la próxima reunión.
 :::
 
 ## Datos (2/2): resultados y controles
@@ -424,6 +424,20 @@ Nunn, N., 2009. [The Importance of History for Economic Development](https://eco
 
 ::: notes
 Los tres de arriba son los tuyos; los tres de abajo son para cuando empieces la revisión (Nunn 2009 es una revisión de la literatura sobre historia y desarrollo, buen punto de partida para encontrar más artículos). El ejemplo 1 de hoy, Nunn y Qian (2011), está en su diapositiva.
+:::
+
+## Para la próxima reunión
+
+- [ ] **Elegir** el tema 1 o el tema 2
+- [ ] Una **pregunta concreta**, con periodo y geografía, y una **hipótesis**
+- [ ] **3–5 artículos clave**, resumidos con la plantilla
+- [ ] **Comprobación de datos**: para cada variable, fuente, cobertura y si has podido descargarla
+- [ ] Un **índice provisional**
+
+<!-- TODO: añadir la fecha límite de entrega o de la próxima reunión (no consta en el encargo). -->
+
+::: notes
+Es el mismo orden que hemos seguido hoy. Si dudas entre los dos temas, haz la comprobación de datos para los dos: suele decidir la elección. El índice provisional puede ser corto: capítulos y una línea sobre qué va en cada uno.
 :::
 
 # ¿Preguntas? {background-color="#40666e"}
