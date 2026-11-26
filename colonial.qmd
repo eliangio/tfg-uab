@@ -261,4 +261,169 @@ Un TFG puede **reutilizar** datos publicados y **ampliarlos**:
 Reutilizar una base publicada no es copiar: replicar un resultado, y después ampliarlo, es una forma estupenda de hacer un TFG viable. Por ejemplo, llevar el diseño de Jedwab y Moradi (Ghana) a otro país con datos parecidos, o añadir un resultado nuevo (luces nocturnas, conflicto) a la base de Michalopoulos y Papaioannou.
 :::
 
+## Una lista de resúmenes no es una revisión
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-warning title="Lista de resúmenes"}
+- Nunn y Qian (2011) estudian la patata
+- Jedwab, Kerby y Moradi (2017) estudian el ferrocarril en Kenia
+- Miguel (2004) compara Kenia y Tanzania
+
+Cada artículo va por su lado.
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-tip title="Revisión"}
+Nunn y Qian (2011) y Jedwab, Kerby y Moradi (2017) buscan una variación **geográfica** que no dependa de las propias zonas (aptitud para la patata; trazado del ferrocarril). **Esa** es la idea que llevo a mi pregunta.
+:::
+:::
+:::
+
+::: notes
+Una revisión compara (en qué se parecen los artículos y en qué se distinguen), agrupa (por mecanismo o por método) y termina en tu pregunta. A la derecha se ve en una sola frase: no resume dos artículos, los conecta y dice qué se queda para el propio trabajo. Esto es lo que más se echa de menos en las revisiones de los TFG: una sucesión de «X estudia Y».
+:::
+
+## Una plantilla para cada artículo
+
+::: {.steps style="grid-template-columns: repeat(5, 1fr);"}
+::: {.step}
+[1]{.n}
+[Pregunta]{.t}
+
+- ¿Qué quiere explicar?
+:::
+::: {.step}
+[2]{.n}
+[Datos]{.t}
+
+- País, periodo, unidad
+:::
+::: {.step}
+[3]{.n}
+[Método]{.t}
+
+- Cómo identifica el efecto
+:::
+::: {.step}
+[4]{.n}
+[Resultado]{.t}
+
+- Qué encuentra, en una frase
+:::
+::: {.step}
+[5]{.n}
+[Relevancia]{.t}
+
+- Qué aporta o qué hueco deja a mi TFG
+:::
+:::
+
+::: {.callout-tip title="La quinta pieza es la importante"}
+Es la que convierte un resumen en parte de una **revisión**.
+:::
+
+::: notes
+Pregunta → datos (país, periodo, unidad) → método o identificación → resultado principal → relevancia o hueco para mi TFG. Rellénala primero en una tabla, con una fila por artículo; después se escribe el párrafo. Los dos ejemplos siguientes siguen exactamente este orden.
+:::
+
+## Ejemplo 1: Nunn y Qian (2011)
+
+::: {.callout-note title="Párrafo de ejemplo"}
+::: {.small}
+Nunn y Qian (2011) preguntan cuánto contribuyó la llegada de la patata desde América a la población y a la urbanización del Viejo Mundo. Para identificar el efecto combinan dos fuentes de variación: la **aptitud** de cada región para cultivarla (geografía) y el **momento** en que el cultivo llega al Viejo Mundo (calendario). La lógica es que, si la patata importó, las regiones más aptas deberían crecer más después de su introducción. Según sus estimaciones más conservadoras, la patata explica alrededor de una cuarta parte del crecimiento de la población y de la urbanización del Viejo Mundo entre 1700 y 1900, y comparaciones dentro de países, con poblaciones de ciudades y estaturas de adultos, apuntan en la misma dirección. Para mi TFG lo que importa es el método: separar el efecto de un hecho histórico combinando **dónde** y **cuándo**.
+:::
+:::
+
+::: {.refs}
+Nunn, N. and Qian, N., 2011. [The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment](https://econpapers.repec.org/RePEc:oup:qjecon:v:126:y:2011:i:2:p:593-650). *Quarterly Journal of Economics*, 126(2), pp.593-650.
+:::
+
+::: notes
+Fíjate en las cinco piezas: pregunta (primera frase), datos (de qué se trata: población y urbanización del Viejo Mundo), método (segunda y tercera frases: geografía y calendario), resultado (cuarta frase) y relevancia (la última). El párrafo tiene cinco frases y cita las cifras tal como aparecen en el resumen publicado («aproximadamente una cuarta parte», estimaciones más conservadoras, 1700–1900). La idea metodológica es la que nos interesa: no hace falta un experimento, basta una variación geográfica que no dependa de la decisión de las zonas (aquí, la aptitud del terreno) combinada con un momento en que llega el cambio.
+:::
+
+## La idea que puedes tomar prestada
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-tip title="Ferrocarriles"}
+- **Dónde**: zonas con línea (o cerca) frente a zonas sin ella
+- **Cuándo**: el año en que llega la línea
+- **Cuidado**: el trazado no debe depender del potencial de la zona
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-note title="Fronteras"}
+- **Dónde**: grupos partidos frente a no partidos
+- **Cuándo**: la partición es casi simultánea: casi todo recae en el «dónde»
+- **Cuidado**: los grupos deberían parecerse antes de la partición
+:::
+:::
+:::
+
+::: notes
+Es una idea para explorar, no un diseño cerrado. Ferrocarriles: como el ferrocarril llega en años distintos a lugares distintos, se puede comparar lo que pasa antes y después de la llegada en las zonas expuestas y en las no expuestas. Jedwab, Kerby y Moradi dedican mucho espacio a argumentar que el trazado no dependía del potencial de la zona (el ferrocarril keniano se trazó por razones geoestratégicas) y a comprobarlo con líneas «placebo». Fronteras: casi no hay variación en el calendario, así que la comparación descansa en el «dónde» y en que los grupos partidos y no partidos fueran parecidos de antemano; Michalopoulos y Papaioannou lo argumentan (salvo por la superficie y las masas de agua, se parecían en varias dimensiones), pero sigue siendo un supuesto.
+:::
+
+## Ejemplo 2: Jedwab, Kerby y Moradi (2017)
+
+| Pieza | Jedwab, Kerby y Moradi (2017) |
+|-------------|-----------------------------------------------------------|
+| **Pregunta** | ¿Cómo surgen y persisten las ciudades en un país pobre? Caso: los ferrocarriles coloniales de Kenia |
+| **Datos** | Kenia, más de un siglo (desde 1901), celdas geográficas pequeñas |
+| **Método** | Experimento natural: línea trazada por razones geoestratégicas (llegar a Uganda); líneas «placebo»; celdas conectadas frente a celdas vecinas sin línea |
+| **Resultado** | El ferrocarril fijó dónde se asentaron los colonos europeos y, con ellos, las ciudades principales; las ciudades **persistieron** aunque cayeron el ferrocarril y los colonos |
+| **Para mi TFG** | Modelo de variación dentro del país. Ojo: el efecto pasa por los colonos. Hueco posible: otro país u otro resultado |
+
+<!-- TODO: verify. Datos y diseño tomados de la versión de trabajo (IIEP-WP-2014-2, enero de 2014): 473 celdas de unos 16 × 16 km, 1901–2009, líneas «placebo» (ramales planeados y no construidos, rutas de exploradores), celdas contiguas no conectadas. Comprobar contra la versión publicada (Economic Journal, 127(603)) antes de dar cifras exactas en la diapositiva. -->
+
+::: {.refs}
+Jedwab, R., Kerby, E. and Moradi, A., 2017. [History, Path Dependence and Development: Evidence from Colonial Railways, Settlers and Cities in Kenya](https://econpapers.repec.org/RePEc:wly:econjl:v:127:y:2017:i:603:p:1467-1494). *Economic Journal*, 127(603), pp.1467-1494.
+:::
+
+::: notes
+Es la misma plantilla aplicada a uno de tus artículos. El mecanismo de persistencia que proponen es sobre todo de coordinación: las ciudades que surgieron pronto sirvieron para coordinar las inversiones posteriores, más que por la inversión hundida de la época colonial. La última fila es la que tienes que escribir tú para cada artículo. Aquí, dos observaciones para tu tema 1: el ferrocarril keniano no se trazó para sacar mercancías a la costa sino por razones geoestratégicas (enlazar la costa con Uganda), y el efecto pasa por los colonos europeos. ¿Encaja con tu idea de «líneas hacia la costa»? Esa tensión es útil para tu pregunta.
+:::
+
+## Síntesis: agrupar y llegar al hueco
+
+::: {.callout-note title="Párrafo de síntesis (ejemplo)"}
+::: {.small}
+Los trabajos sobre persistencia histórica en África siguen sobre todo dos vías. En la primera, una inversión colonial fija dónde se concentra la actividad: Jedwab y Moradi (2016) y Jedwab, Kerby y Moradi (2017) muestran que los ferrocarriles fijaron dónde se concentran la actividad económica y las ciudades, y que el patrón persistió aunque las líneas decayeran. En la segunda, la historia deja huella en la cultura y la política: Nunn y Wantchekon (2011) vinculan la trata de esclavos con menos confianza hoy, y Michalopoulos y Papaioannou (2016) los grupos partidos por fronteras coloniales con más violencia política. **Hueco (por comprobar): [país, periodo o resultado que estos trabajos no cubren]. Ahí entra mi TFG.**
+:::
+:::
+
+::: {.small .muted}
+Agrupa por **mecanismo** o por **método**, no por orden alfabético, y acaba en tu pregunta.
+:::
+
+::: notes
+La síntesis agrupa los artículos por mecanismo (primero la localización de la actividad económica, después cultura y política), dice qué aporta cada grupo y termina señalando un hueco. El hueco de este ejemplo es una plantilla: hay que comprobarlo leyendo más, nunca darlo por supuesto. Puede ser otro país (comprobando antes que no esté ya cubierto: Jedwab y Moradi (2016), por ejemplo, incluyen Ghana y gran parte del resto de África), otro periodo o otro resultado (luces nocturnas, conflicto…). Las afirmaciones de cada artículo siguen sus resúmenes publicados: Jedwab y Moradi, ferrocarriles que fijan la distribución de la actividad económica y efectos que persisten aunque los ferrocarriles colapsaran; Nunn y Wantchekon, menos confianza entre los individuos cuyos antepasados fueron muy afectados, con un efecto que opera sobre todo por normas y creencias individuales; Michalopoulos y Papaioannou, más violencia política en los territorios partidos.
+:::
+
+## Referencias
+
+::: {.refs}
+**Tus artículos**
+
+Jedwab, R., Kerby, E. and Moradi, A., 2017. [History, Path Dependence and Development: Evidence from Colonial Railways, Settlers and Cities in Kenya](https://econpapers.repec.org/RePEc:wly:econjl:v:127:y:2017:i:603:p:1467-1494). *Economic Journal*, 127(603), pp.1467-1494.
+
+Michalopoulos, S. and Papaioannou, E., 2016. [The Long-Run Effects of the Scramble for Africa](https://www.aeaweb.org/articles?id=10.1257/aer.20131311). *American Economic Review*, 106(7), pp.1802-1848.
+
+Miguel, E., 2004. [Tribe or Nation? Nation Building and Public Goods in Kenya versus Tanzania](https://emiguel.econ.berkeley.edu/research/tribe-or-nation-nation-building-and-public-goods-in-kenya-versus-tanzania/). *World Politics*, 56(3), pp.327-362.
+
+**Para la fase de revisión (no son lectura obligatoria para esta reunión)**
+
+Jedwab, R. and Moradi, A., 2016. [The Permanent Effects of Transportation Revolutions in Poor Countries: Evidence from Africa](https://econpapers.repec.org/RePEc:tpr:restat:v:98:y:2016:i:2:p:268-284). *Review of Economics and Statistics*, 98(2), pp.268-284.
+
+Nunn, N. and Wantchekon, L., 2011. [The Slave Trade and the Origins of Mistrust in Africa](https://econpapers.repec.org/RePEc:aea:aecrev:v:101:y:2011:i:7:p:3221-52). *American Economic Review*, 101(7), pp.3221-3252.
+
+Nunn, N., 2009. [The Importance of History for Economic Development](https://econpapers.repec.org/RePEc:anr:reveco:v:1:y:2009:p:65-92). *Annual Review of Economics*, 1, pp.65-92.
+:::
+
+::: notes
+Los tres de arriba son los tuyos; los tres de abajo son para cuando empieces la revisión (Nunn 2009 es una revisión de la literatura sobre historia y desarrollo, buen punto de partida para encontrar más artículos). El ejemplo 1 de hoy, Nunn y Qian (2011), está en su diapositiva.
+:::
+
 # ¿Preguntas? {background-color="#40666e"}
