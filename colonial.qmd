@@ -25,180 +25,75 @@ format:
       data-background-repeat: no-repeat
 ---
 
-## Dónde estamos
-
-::: {.columns}
-::: {.column width="50%"}
-::: {.callout-tip title="Tema 1: ferrocarriles"}
-- Líneas para llevar **mercancías a la costa**, no personas
-- **Riqueza concentrada** y poco comercio con los vecinos
-- Oro y cacao (Ghana); estaño y aceite de palma (Nigeria)
-- **Kenia frente a Tanzania**
-:::
-:::
-::: {.column width="50%"}
-::: {.callout-note title="Tema 2: fronteras"}
-- Fronteras rectas que **parten grupos étnicos** (masáis; ewes) y juntan rivales
-- Fragmentación política, riesgo de conflicto y menos inversión
-:::
-:::
-:::
-
-::: {.small .muted}
-Los dos comparten un enfoque **geográfico** y de **persistencia histórica**.
-:::
-
-::: notes
-Resumen de lo que me enviaste. Título provisional: «Historia colonial y riqueza contemporánea: las raíces de la desigualdad económica». Los dos temas parten de la misma pregunta: cómo explica una decisión colonial (una línea de tren, una frontera) las diferencias de hoy. Hoy comparamos los dos y vemos cómo se trabajaría cada uno; la elección es tuya.
-:::
-
 ## Dos temas, dos grados de dificultad
 
 ::: {.columns}
-::: {.column width="40%"}
+::: {.column width="50%"}
 ::: {.callout-tip title="Tema 1: ferrocarriles"}
-- Está **más desarrollado**
-- **Datos** más fáciles de encontrar y de trabajar
+- Líneas para llevar **mercancías a la costa**: riqueza concentrada y poco comercio con los vecinos
+- Está **más desarrollado**; los **datos** son más fáciles de encontrar y de trabajar
 :::
 :::
-::: {.column width="60%"}
+::: {.column width="50%"}
 ::: {.callout-note title="Tema 2: fronteras"}
-- Los datos **no son** el problema principal: hay una base pública (Michalopoulos y Papaioannou, 2016)
-- La dificultad son los **mecanismos**: cultura, instituciones, confianza, conflicto
-- La causalidad descansa en **supuestos fuertes**
+- Fronteras rectas que **parten grupos étnicos** y juntan rivales
+- Los datos **no son** el problema (hay una base pública: Michalopoulos y Papaioannou, 2016); sí los **mecanismos** y los **supuestos fuertes**
 :::
 :::
 :::
 
 **La decisión es tuya.** El tema 2 es viable, pero más exigente.
 
-::: notes
-La base de Michalopoulos y Papaioannou cruza los territorios étnicos del mapa de Murdock con las fronteras nacionales. Ellos argumentan que, salvo por la superficie y las masas de agua, los grupos étnicos partidos y no partidos se parecían antes de la partición, y de ahí sacan sus comparaciones. Pero «se parecían en lo que podemos medir» es un supuesto, no una prueba. Separar cultura, instituciones, confianza y conflicto es lo que hace difícil el tema 2. Con el tema 1 es más fácil llegar a un TFG acotado; con el tema 2 hay que ser muy cuidadosa al decir «causa». El archivo de réplica de M&P está en la página del artículo en la AEA; lo comprobamos en la parte de datos.
+::: {.small .muted}
+Los dos comparten un enfoque **geográfico** y de **persistencia histórica**.
 :::
 
-## Kenia y Tanzania: qué dice una comparación
+::: notes
+Resumen de lo que me enviaste. Título provisional: «Historia colonial y riqueza contemporánea: las raíces de la desigualdad económica». Tema 1: líneas hechas para sacar mercancías a la costa (oro y cacao en Ghana; estaño y aceite de palma en Nigeria), con la comparación Kenia–Tanzania. Tema 2: fronteras rectas tras la Conferencia de Berlín que parten grupos (masáis entre Kenia y Tanzania; ewes entre Ghana, Togo y Benín) y juntan rivales; consecuencias: fragmentación política, riesgo de conflicto y menos inversión. El tema 1 está más desarrollado y sus datos son más fáciles de encontrar y de trabajar. En el tema 2 la dificultad no son sobre todo los datos: Michalopoulos y Papaioannou construyeron una base pública que cruza los territorios étnicos del mapa de Murdock con las fronteras nacionales. La dificultad son los mecanismos (cultura, instituciones, confianza, conflicto), difíciles de aislar, y que las afirmaciones causales descansan en supuestos fuertes: ellos argumentan que, salvo por la superficie y las masas de agua, los grupos partidos y no partidos se parecían antes de la partición, pero «se parecían en lo que podemos medir» es un supuesto, no una prueba. El tema 2 es viable pero más exigente; la elección es tuya.
+:::
+
+## Kenia y Tanzania: qué puede decir una comparación
 
 ::: {.columns}
 ::: {.column width="50%"}
-::: {.callout-tip title="Lo que permite"}
-**Describir** las diferencias entre dos países y plantear hipótesis.
+::: {.callout-warning title="Dos países"}
+**Describen** diferencias, pero no permiten **atribuirlas** a una sola causa: también cambian la geografía, los líderes, el calendario, la ayuda exterior…
 :::
 :::
 ::: {.column width="50%"}
-::: {.callout-warning title="Lo que no permite"}
-**Atribuir** la diferencia a una sola causa.
+::: {.callout-tip title="Miguel (2004)"}
+Compara **dos distritos vecinos** a ambos lados de una frontera colonial arbitraria, y **comunidades** dentro de cada uno.
 :::
 :::
 :::
 
-Entre los dos países cambian muchas más cosas que el sistema heredado: la **geografía**, los **líderes**, el **calendario**, la **ayuda exterior**…
-
-::: notes
-Con dos observaciones, cualquier diferencia tiene muchas explicaciones posibles. Un matiz histórico: Tanganica fue colonia alemana hasta la Primera Guerra Mundial y después territorio bajo mandato británico, así que «las dos fueron colonias británicas» es una simplificación. De hecho, la frontera entre Kenia y Tanzania la trazaron autoridades británicas y alemanas entre 1886 y 1890 (lo cuenta Miguel, 2004). Es otro motivo para no atribuir toda la diferencia al sistema heredado.
-:::
-
-## Miguel (2004): una comparación cuidadosa
-
-- **Dos distritos vecinos** a ambos lados de una frontera colonial arbitraria: Busia (Kenia) y Meatu (Tanzania)
-- **Dentro de cada distrito**, compara comunidades con más y menos diversidad étnica
-- Kenia: diversidad media = **25% menos** de financiación escolar local. Tanzania: casi **cero**
-- Lo atribuye a la **construcción nacional** (lengua, educación, instituciones)
-
-::: {.small .muted}
-Su foco no es el ferrocarril: sirve de modelo de método, no de apoyo directo al tema 1.
-:::
+**Decídelo pronto:** ¿un TFG **descriptivo**, o algo **más causal**, con variación dentro de un país (por ejemplo, zonas cercanas y lejanas a las líneas de tren)?
 
 ::: {.refs}
 Miguel, E., 2004. [Tribe or Nation? Nation Building and Public Goods in Kenya versus Tanzania](https://emiguel.econ.berkeley.edu/research/tribe-or-nation-nation-building-and-public-goods-in-kenya-versus-tanzania/). *World Politics*, 56(3), pp.327-362.
 :::
 
 ::: notes
-Es un estudio comparativo muy cuidadoso, pero no compara «Kenia» con «Tanzania» a secas: son dos distritos escogidos por ser parecidos, con decenas de escuelas y pueblos dentro de cada uno, y estima la relación entre diversidad étnica y bienes públicos en cada distrito (en el texto, 84 escuelas con datos completos en Busia y 71 pueblos en Meatu). Miguel reconoce que no puede separar los componentes del paquete tanzano (lengua, educación, instituciones). Discute también el periodo de socialismo (ujamaa, villagización forzosa) como otra divergencia entre los dos países, pero no lo presenta como la explicación de los mejores resultados de Tanzania: si acaso, dice, tendió a avivar las tensiones. Por eso tu planteamiento (Kenia mantiene el sistema heredado, Tanzania adopta el socialismo africano) no es exactamente lo que Miguel contrasta. Usa su artículo como ejemplo de cómo hacer creíble una comparación, y fíjate en que la frontera arbitraria es parte de su diseño: conecta con el tema 2.
-:::
-
-## ¿Descriptivo o causal? Decídelo pronto
-
-::: {.columns}
-::: {.column width="50%"}
-::: {.callout-tip title="Descriptivo o comparativo"}
-- Comparar Kenia y Tanzania (o Kenia y Ghana)
-- Describir con cuidado qué difiere y proponer explicaciones
-- Más sencillo de abarcar
-:::
-:::
-::: {.column width="50%"}
-::: {.callout-note title="Algo más causal"}
-- Usar variación **dentro de un país**
-- Por ejemplo: distritos **cercanos** frente a **lejanos** a las líneas de tren
-- Pide más datos y más cuidado
-:::
-:::
-:::
-
-::: {.small .muted}
-Las dos opciones valen para un TFG. Lo importante es que la pregunta y el método vayan a la par.
-:::
-
-::: notes
-Es la decisión de método más importante después de elegir tema. Una comparación de dos países describe; para acercarse a una causa hace falta comparar unidades parecidas dentro del mismo país, que es lo que hacen Jedwab, Kerby y Moradi en Kenia (celdas con línea de tren frente a celdas vecinas sin ella) y Miguel (comunidades dentro de dos distritos). Un TFG descriptivo bien hecho es mejor que uno causal con supuestos que no se sostienen.
+Con dos observaciones, cualquier diferencia tiene muchas explicaciones posibles. Un matiz histórico: Tanganica fue colonia alemana hasta la Primera Guerra Mundial y después territorio bajo mandato británico, así que «las dos fueron colonias británicas» es una simplificación; la frontera entre Kenia y Tanzania la trazaron autoridades británicas y alemanas entre 1886 y 1890 (lo cuenta Miguel). Miguel es una comparación muy cuidadosa, pero no compara «Kenia» con «Tanzania» a secas: son dos distritos escogidos por ser parecidos (Busia, en Kenia, y Meatu, en Tanzania), y estima la relación entre diversidad étnica y bienes públicos en cada distrito (en el texto, 84 escuelas con datos completos en Busia y 71 pueblos en Meatu). Resultado: en Kenia las comunidades con diversidad media tienen un 25% menos de financiación escolar local que las homogéneas; en Tanzania, casi cero. Lo atribuye a la construcción nacional (lengua, educación, instituciones locales), no al ferrocarril, y reconoce que no puede separar los componentes del paquete tanzano. Discute el periodo de socialismo (ujamaa) como otra divergencia, pero no como la explicación de los mejores resultados de Tanzania. Por eso tu planteamiento (Kenia mantiene el sistema heredado, Tanzania adopta el socialismo africano) no es exactamente lo que Miguel contrasta: úsalo como ejemplo de cómo hacer creíble una comparación. La frontera arbitraria es parte de su diseño: conecta con el tema 2. Descriptivo o causal es la decisión de método más importante después de elegir tema: para acercarse a una causa hace falta comparar unidades parecidas dentro del mismo país, que es lo que hacen Jedwab, Kerby y Moradi en Kenia (celdas con línea de tren frente a celdas vecinas sin ella). Un TFG descriptivo bien hecho es mejor que uno causal con supuestos que no se sostienen.
 :::
 
 ## De un tema a una pregunta
 
-::: {.steps}
-::: {.step}
-[1]{.n}
-[Exposición]{.t}
+Una buena pregunta dice **qué**, **sobre qué**, **dónde** y **cuándo**.
 
-- Línea de tren colonial
-- Frontera que parte un grupo
-:::
-::: {.step}
-[2]{.n}
-[Resultado]{.t}
-
-- Población urbana, actividad económica
-- Conflicto, desarrollo
-:::
-::: {.step}
-[3]{.n}
-[Geografía]{.t}
-
-- Kenia, Ghana o una región
-- Grupos étnicos de África
-:::
-::: {.step}
-[4]{.n}
-[Periodo]{.t}
-
-- De la colonia a hoy
-- De la partición a hoy
-:::
-:::
-
-::: {.callout-tip title="Una buena pregunta dice…"}
-**Qué** exposición, **sobre qué** resultado, **dónde** y **cuándo**. Hasta que no tiene las cuatro cosas, sigue siendo un tema.
-:::
-
-::: notes
-Cada tema se estrecha eligiendo estas cuatro piezas. Primera fila de cada columna: tema 1; segunda: tema 2. La geografía y el periodo dependen de dónde haya datos (lo vemos en la parte de datos). Cuanto más acotada la pregunta, más fácil es que el TFG quepa en 8.000–10.000 palabras.
-:::
-
-## Ejemplos de preguntas
-
-| Tema | Pregunta de ejemplo | Tipo |
-|-----------|--------------------------------------------------------|-----------|
-| Ferrocarriles | ¿Las zonas de Kenia (o Ghana) conectadas por el ferrocarril colonial concentran hoy más población urbana y actividad económica que zonas comparables sin ferrocarril? | Más causal |
-| Ferrocarriles | ¿Cómo difieren hoy la urbanización y la actividad económica en torno a las líneas coloniales de Kenia y de Tanzania, y qué explicaciones caben? | Descriptiva |
-| Fronteras | ¿Los grupos étnicos divididos por fronteras coloniales presentan hoy más conflicto o menor desarrollo que los no divididos? | Más causal |
-| Fronteras | ¿Se diferencia la actividad económica en el territorio de los ewes (Ghana, Togo y Benín) de la de los grupos vecinos que no están divididos? | Descriptiva |
+| Tema | Pregunta de ejemplo |
+|-----------|--------------------------------------------------------|
+| Ferrocarriles | ¿Las zonas de Kenia (o Ghana) conectadas por el ferrocarril colonial concentran hoy más población urbana y actividad económica que zonas comparables sin ferrocarril? |
+| Ferrocarriles | ¿Cómo difieren hoy la urbanización y la actividad económica en torno a las líneas coloniales de Kenia y de Tanzania, y qué explicaciones caben? |
+| Fronteras | ¿Los grupos étnicos divididos por fronteras coloniales presentan hoy más conflicto o menor desarrollo que los no divididos? |
+| Fronteras | ¿Se diferencia la actividad económica en el territorio de los ewes (Ghana, Togo y Benín) de la de los grupos vecinos que no están divididos? |
 
 ::: {.small .muted}
 Son ilustraciones, no preguntas impuestas: la pregunta la formulas tú.
 :::
 
 ::: notes
-Son ejemplos para ver el nivel de concreción, no una lista cerrada. Las dos «más causales» comparan unidades parecidas dentro de un mismo marco (zonas con y sin línea; grupos divididos y no divididos). Las «descriptivas» son más fáciles de defender con pocos supuestos. Cualquiera puede cambiar de país, de resultado o de periodo.
+Cada tema se estrecha eligiendo cuatro piezas: exposición (línea de tren, frontera que parte un grupo), resultado (población urbana, actividad económica, conflicto, desarrollo), geografía (Kenia, Ghana o una región; grupos étnicos de África) y periodo (de la colonia o la partición a hoy). La geografía y el periodo dependen de dónde haya datos. Son ejemplos para ver el nivel de concreción, no una lista cerrada. La primera y la tercera son más causales: comparan unidades parecidas dentro de un mismo marco (zonas con y sin línea; grupos divididos y no divididos). La segunda y la cuarta son descriptivas y más fáciles de defender con pocos supuestos. Cuanto más acotada la pregunta, más fácil es que el TFG quepa en 8.000–10.000 palabras.
 :::
 
 ## Datos (1/2): los archivos de réplica
@@ -213,11 +108,11 @@ Son ejemplos para ver el nivel de concreción, no una lista cerrada. Las dos «m
 <!-- TODO: verify. Michalopoulos y Papaioannou (2016): la página de la AEA lista un «Replication Package»; falta abrirlo y comprobar que incluye los datos y no solo el código. -->
 
 ::: {.callout-important title="Antes de elegir tema"}
-Comprueba que los archivos de réplica **se descargan y se abren**.
+Comprueba que los archivos de réplica **se descargan y se abren**. Después puedes **reutilizarlos y ampliarlos**: otro país, un periodo más reciente u otro resultado.
 :::
 
 ::: notes
-Jedwab y Moradi (2016): la réplica está en Harvard Dataverse (doi 10.7910/DVN/29908), con licencia CC0; hay un único archivo. Michalopoulos y Papaioannou: la página del artículo en la AEA enumera un paquete de réplica; el proyecto equivalente en openICPSR muestra código, así que hay que abrirlo para ver si incluye los datos. De Jedwab, Kerby y Moradi (2017) no he encontrado un archivo de réplica público: comprueba tú si existe o si habría que escribir a los autores. Es justo lo que quiero que compruebes tú antes de la próxima reunión.
+Jedwab y Moradi (2016): la réplica está en Harvard Dataverse (doi 10.7910/DVN/29908), con licencia CC0; hay un único archivo. Michalopoulos y Papaioannou: la página del artículo en la AEA enumera un paquete de réplica; el proyecto equivalente en openICPSR muestra código, así que hay que abrirlo para ver si incluye los datos. De Jedwab, Kerby y Moradi (2017) no he encontrado un archivo de réplica público: comprueba tú si existe o si habría que escribir a los autores. Un TFG puede reutilizar datos publicados y ampliarlos: replicar un resultado y después ampliarlo (otro país con datos parecidos, o un resultado nuevo como luces nocturnas o conflicto) es una forma estupenda de hacer un TFG viable.
 :::
 
 ## Datos (2/2): resultados y controles
@@ -238,139 +133,36 @@ Jedwab y Moradi (2016): la réplica está en Harvard Dataverse (doi 10.7910/DVN/
 Las luces nocturnas sirven de aproximación a la actividad económica donde faltan datos oficiales por región. Para cada fuente comprueba el nivel geográfico, los años y las condiciones de acceso. Afrobarometer: datos fusionados por ronda, descarga libre; los datos con coordenadas necesitan solicitud. DHS: registro gratuito y solicitud; el acceso ha tenido interrupciones, así que conviene comprobarlo pronto. ACLED: registro en myACLED, con distintos niveles de acceso. Luces nocturnas: hay una serie más antigua (DMSP-OLS) y una más reciente (VIIRS); las dos tienen distinta resolución y no se encadenan sin cuidado.
 :::
 
-## Reutilizar y ampliar
-
-::: {.columns}
-::: {.column width="50%"}
-::: {.callout-important title="Primero"}
-Descarga y **abre** los archivos de réplica antes de elegir tema.
-:::
-:::
-::: {.column width="50%"}
-::: {.callout-tip title="Después"}
-Un TFG puede **reutilizar** datos publicados y **ampliarlos**:
-
-- otro **país**
-- un periodo **más reciente**
-- otro **resultado**
-:::
-:::
-:::
-
-::: notes
-Reutilizar una base publicada no es copiar: replicar un resultado, y después ampliarlo, es una forma estupenda de hacer un TFG viable. Por ejemplo, llevar el diseño de Jedwab y Moradi (Ghana) a otro país con datos parecidos, o añadir un resultado nuevo (luces nocturnas, conflicto) a la base de Michalopoulos y Papaioannou.
-:::
-
-## Una lista de resúmenes no es una revisión
+## Revisión de la literatura
 
 ::: {.columns}
 ::: {.column width="50%"}
 ::: {.callout-warning title="Lista de resúmenes"}
-- Nunn y Qian (2011) estudian la patata
 - Jedwab, Kerby y Moradi (2017) estudian el ferrocarril en Kenia
+- Michalopoulos y Papaioannou (2016) estudian las fronteras
 - Miguel (2004) compara Kenia y Tanzania
-
-Cada artículo va por su lado.
 :::
 :::
 ::: {.column width="50%"}
 ::: {.callout-tip title="Revisión"}
-Nunn y Qian (2011) y Jedwab, Kerby y Moradi (2017) buscan una variación **geográfica** que no dependa de las propias zonas (aptitud para la patata; trazado del ferrocarril). **Esa** es la idea que llevo a mi pregunta.
+Los **compara** y los **conecta con tu pregunta**: los dos primeros estudian el efecto de largo plazo de una decisión colonial (el ferrocarril, la frontera), pero miden resultados distintos. **Esa** diferencia es la que llevo a mi pregunta.
 :::
 :::
 :::
 
-::: notes
-Una revisión compara (en qué se parecen los artículos y en qué se distinguen), agrupa (por mecanismo o por método) y termina en tu pregunta. A la derecha se ve en una sola frase: no resume dos artículos, los conecta y dice qué se queda para el propio trabajo. Esto es lo que más se echa de menos en las revisiones de los TFG: una sucesión de «X estudia Y».
-:::
-
-## Una plantilla para organizarte
-
-::: {.steps style="grid-template-columns: repeat(5, 1fr);"}
-::: {.step}
-[1]{.n}
-[Pregunta]{.t}
-
-- ¿Qué quiere explicar?
-:::
-::: {.step}
-[2]{.n}
-[Datos]{.t}
-
-- País, periodo, unidad
-:::
-::: {.step}
-[3]{.n}
-[Método]{.t}
-
-- Cómo identifica el efecto
-:::
-::: {.step}
-[4]{.n}
-[Resultado]{.t}
-
-- Qué encuentra, en una frase
-:::
-::: {.step}
-[5]{.n}
-[Relevancia]{.t}
-
-- Qué aporta o qué hueco deja a mi TFG
-:::
-:::
-
-::: {.callout-tip title="Solo una sugerencia"}
-Úsala si te ayuda a **organizar las lecturas**. No hace falta entregarla.
+::: {.small .muted}
+Si te ayuda a organizarte, para cada artículo puedes anotar: pregunta → datos (país, periodo, unidad) → método → resultado → relevancia para tu TFG. Es solo una sugerencia.
 :::
 
 ::: notes
-Pregunta → datos (país, periodo, unidad) → método o identificación → resultado principal → relevancia o hueco para mi TFG. Es solo una sugerencia para no perderte entre las lecturas (por ejemplo, una tabla con una fila por artículo); no tienes que usarla ni enseñármela. Lo que importa es que la revisión compare los artículos y los conecte con tu pregunta, como en el ejemplo siguiente.
+Una revisión compara (en qué se parecen los artículos y en qué se distinguen), agrupa (por mecanismo o por método) y termina en tu pregunta. A la derecha se ve en una sola frase: no resume dos artículos, los conecta y dice qué se queda para el propio trabajo. Esto es lo que más se echa de menos en las revisiones de los TFG: una sucesión de «X estudia Y». Jedwab, Kerby y Moradi miden sobre todo ciudades; Michalopoulos y Papaioannou, violencia política y bienestar económico de los grupos partidos. La pauta de lectura (pregunta, datos, método, resultado, relevancia) es solo una forma de no perderte entre las lecturas, por ejemplo con una tabla de una fila por artículo; no tienes que usarla ni enseñármela.
 :::
 
-## Ejemplo: Nunn y Qian (2011)
+## Un ejemplo de revisión
 
-::: {.callout-note title="Párrafo de ejemplo"}
+::: {.callout-note title="Párrafo de síntesis"}
 ::: {.small}
-Nunn y Qian (2011) preguntan cuánto contribuyó la llegada de la patata desde América a la población y a la urbanización del Viejo Mundo. Para identificar el efecto combinan dos fuentes de variación: la **aptitud** de cada región para cultivarla (geografía) y el **momento** en que el cultivo llega al Viejo Mundo (calendario). La lógica es que, si la patata importó, las regiones más aptas deberían crecer más después de su introducción. Según sus estimaciones más conservadoras, la patata explica alrededor de una cuarta parte del crecimiento de la población y de la urbanización del Viejo Mundo entre 1700 y 1900, y comparaciones dentro de países, con poblaciones de ciudades y estaturas de adultos, apuntan en la misma dirección. Para mi TFG lo que importa es el método: separar el efecto de un hecho histórico combinando **dónde** y **cuándo**.
-:::
-:::
-
-::: {.refs}
-Nunn, N. and Qian, N., 2011. [The Potato's Contribution to Population and Urbanization: Evidence from a Historical Experiment](https://econpapers.repec.org/RePEc:oup:qjecon:v:126:y:2011:i:2:p:593-650). *Quarterly Journal of Economics*, 126(2), pp.593-650.
-:::
-
-::: notes
-Fíjate en cómo el párrafo no se limita a resumir: plantea la pregunta (primera frase), explica el método (segunda y tercera: geografía y calendario), da el resultado (cuarta) y dice qué se queda para el propio trabajo (la última). El párrafo tiene cinco frases y cita las cifras tal como aparecen en el resumen publicado («aproximadamente una cuarta parte», estimaciones más conservadoras, 1700–1900). La idea metodológica es la que nos interesa: no hace falta un experimento, basta una variación geográfica que no dependa de la decisión de las zonas (aquí, la aptitud del terreno) combinada con un momento en que llega el cambio.
-:::
-
-## La idea que puedes tomar prestada
-
-::: {.columns}
-::: {.column width="50%"}
-::: {.callout-tip title="Ferrocarriles"}
-- **Dónde**: zonas con línea (o cerca) frente a zonas sin ella
-- **Cuándo**: el año en que llega la línea
-- **Cuidado**: el trazado no debe depender del potencial de la zona
-:::
-:::
-::: {.column width="50%"}
-::: {.callout-note title="Fronteras"}
-- **Dónde**: grupos partidos frente a no partidos
-- **Cuándo**: la partición es casi simultánea: casi todo recae en el «dónde»
-- **Cuidado**: los grupos deberían parecerse antes de la partición
-:::
-:::
-:::
-
-::: notes
-Es una idea para explorar, no un diseño cerrado. Ferrocarriles: como el ferrocarril llega en años distintos a lugares distintos, se puede comparar lo que pasa antes y después de la llegada en las zonas expuestas y en las no expuestas. Jedwab, Kerby y Moradi dedican mucho espacio a argumentar que el trazado no dependía del potencial de la zona (el ferrocarril keniano se trazó por razones geoestratégicas) y a comprobarlo con líneas «placebo». Ojo con un matiz para tu tema 1: ese ferrocarril no se trazó para sacar mercancías a la costa sino para enlazar la costa con Uganda, y el efecto que encuentran pasa por los colonos europeos. ¿Encaja con tu idea de «líneas hacia la costa»? Esa tensión es útil para tu pregunta. Fronteras: casi no hay variación en el calendario, así que la comparación descansa en el «dónde» y en que los grupos partidos y no partidos fueran parecidos de antemano; Michalopoulos y Papaioannou lo argumentan (salvo por la superficie y las masas de agua, se parecían en varias dimensiones), pero sigue siendo un supuesto.
-:::
-
-## Síntesis: agrupar y llegar al hueco
-
-::: {.callout-note title="Párrafo de síntesis (ejemplo)"}
-::: {.small}
-Los trabajos sobre persistencia histórica en África siguen sobre todo dos vías. En la primera, una inversión colonial fija dónde se concentra la actividad: Jedwab y Moradi (2016) y Jedwab, Kerby y Moradi (2017) muestran que los ferrocarriles fijaron dónde se concentran la actividad económica y las ciudades, y que el patrón persistió aunque las líneas decayeran. En la segunda, la historia deja huella en la cultura y la política: Nunn y Wantchekon (2011) vinculan la trata de esclavos con menos confianza hoy, y Michalopoulos y Papaioannou (2016) los grupos partidos por fronteras coloniales con más violencia política. **Hueco (por comprobar): [país, periodo o resultado que estos trabajos no cubren]. Ahí entra mi TFG.**
+Los trabajos sobre persistencia histórica en África siguen sobre todo dos vías. En la primera, una inversión colonial fija dónde se concentra la actividad: [Jedwab y Moradi (2016)](https://econpapers.repec.org/RePEc:tpr:restat:v:98:y:2016:i:2:p:268-284) y [Jedwab, Kerby y Moradi (2017)](https://econpapers.repec.org/RePEc:wly:econjl:v:127:y:2017:i:603:p:1467-1494) muestran que los ferrocarriles fijaron dónde se concentran la actividad económica y las ciudades, y que el patrón persistió aunque las líneas decayeran. En la segunda, la historia deja huella en la cultura y la política: [Nunn y Wantchekon (2011)](https://econpapers.repec.org/RePEc:aea:aecrev:v:101:y:2011:i:7:p:3221-52) vinculan la trata de esclavos con menos confianza hoy, y [Michalopoulos y Papaioannou (2016)](https://www.aeaweb.org/articles?id=10.1257/aer.20131311) los grupos partidos por fronteras coloniales con más violencia política. **Hueco (por comprobar): [país, periodo o resultado que estos trabajos no cubren]. Ahí entra mi TFG.**
 :::
 :::
 
@@ -378,32 +170,12 @@ Los trabajos sobre persistencia histórica en África siguen sobre todo dos vía
 Agrupa por **mecanismo** o por **método**, no por orden alfabético, y acaba en tu pregunta.
 :::
 
-::: notes
-La síntesis agrupa los artículos por mecanismo (primero la localización de la actividad económica, después cultura y política), dice qué aporta cada grupo y termina señalando un hueco. El hueco de este ejemplo es un marcador que hay que rellenar: hay que comprobarlo leyendo más, nunca darlo por supuesto. Puede ser otro país (comprobando antes que no esté ya cubierto: Jedwab y Moradi (2016), por ejemplo, incluyen Ghana y gran parte del resto de África), otro periodo o otro resultado (luces nocturnas, conflicto…). Las afirmaciones de cada artículo siguen sus resúmenes publicados: Jedwab y Moradi, ferrocarriles que fijan la distribución de la actividad económica y efectos que persisten aunque los ferrocarriles colapsaran; Nunn y Wantchekon, menos confianza entre los individuos cuyos antepasados fueron muy afectados, con un efecto que opera sobre todo por normas y creencias individuales; Michalopoulos y Papaioannou, más violencia política en los territorios partidos.
-:::
-
-## Referencias
-
 ::: {.refs}
-**Tus artículos**
-
-Jedwab, R., Kerby, E. and Moradi, A., 2017. [History, Path Dependence and Development: Evidence from Colonial Railways, Settlers and Cities in Kenya](https://econpapers.repec.org/RePEc:wly:econjl:v:127:y:2017:i:603:p:1467-1494). *Economic Journal*, 127(603), pp.1467-1494.
-
-Michalopoulos, S. and Papaioannou, E., 2016. [The Long-Run Effects of the Scramble for Africa](https://www.aeaweb.org/articles?id=10.1257/aer.20131311). *American Economic Review*, 106(7), pp.1802-1848.
-
-Miguel, E., 2004. [Tribe or Nation? Nation Building and Public Goods in Kenya versus Tanzania](https://emiguel.econ.berkeley.edu/research/tribe-or-nation-nation-building-and-public-goods-in-kenya-versus-tanzania/). *World Politics*, 56(3), pp.327-362.
-
-**Para la fase de revisión (no son lectura obligatoria para esta reunión)**
-
-Jedwab, R. and Moradi, A., 2016. [The Permanent Effects of Transportation Revolutions in Poor Countries: Evidence from Africa](https://econpapers.repec.org/RePEc:tpr:restat:v:98:y:2016:i:2:p:268-284). *Review of Economics and Statistics*, 98(2), pp.268-284.
-
-Nunn, N. and Wantchekon, L., 2011. [The Slave Trade and the Origins of Mistrust in Africa](https://econpapers.repec.org/RePEc:aea:aecrev:v:101:y:2011:i:7:p:3221-52). *American Economic Review*, 101(7), pp.3221-3252.
-
-Nunn, N., 2009. [The Importance of History for Economic Development](https://econpapers.repec.org/RePEc:anr:reveco:v:1:y:2009:p:65-92). *Annual Review of Economics*, 1, pp.65-92.
+Para empezar a leer (no son lectura obligatoria para esta reunión): [Jedwab y Moradi (2016)](https://econpapers.repec.org/RePEc:tpr:restat:v:98:y:2016:i:2:p:268-284), *Review of Economics and Statistics*, 98(2); [Nunn y Wantchekon (2011)](https://econpapers.repec.org/RePEc:aea:aecrev:v:101:y:2011:i:7:p:3221-52), *American Economic Review*, 101(7); [Nunn (2009)](https://econpapers.repec.org/RePEc:anr:reveco:v:1:y:2009:p:65-92), *Annual Review of Economics*, 1.
 :::
 
 ::: notes
-Los tres de arriba son los tuyos; los tres de abajo son para cuando empieces la revisión (Nunn 2009 es una revisión de la literatura sobre historia y desarrollo, buen punto de partida para encontrar más artículos). El ejemplo de hoy, Nunn y Qian (2011), está en su diapositiva.
+La síntesis agrupa los artículos por mecanismo (primero la localización de la actividad económica, después cultura y política), dice qué aporta cada grupo y termina señalando un hueco. El hueco de este ejemplo es un marcador que hay que rellenar: hay que comprobarlo leyendo más, nunca darlo por supuesto. Puede ser otro país (comprobando antes que no esté ya cubierto: Jedwab y Moradi (2016), por ejemplo, incluyen Ghana y gran parte del resto de África), otro periodo o otro resultado (luces nocturnas, conflicto…). Las afirmaciones de cada artículo siguen sus resúmenes publicados: Jedwab y Moradi, ferrocarriles que fijan la distribución de la actividad económica y efectos que persisten aunque los ferrocarriles colapsaran; Nunn y Wantchekon, menos confianza entre los individuos cuyos antepasados fueron muy afectados, con un efecto que opera sobre todo por normas y creencias individuales; Michalopoulos y Papaioannou, más violencia política en los territorios partidos. Referencias completas: Jedwab, R. and Moradi, A. (2016), The Permanent Effects of Transportation Revolutions in Poor Countries: Evidence from Africa, Review of Economics and Statistics, 98(2), 268-284. Nunn, N. and Wantchekon, L. (2011), The Slave Trade and the Origins of Mistrust in Africa, American Economic Review, 101(7), 3221-3252. Nunn, N. (2009), The Importance of History for Economic Development, Annual Review of Economics, 1, 65-92 (una revisión de la literatura sobre historia y desarrollo, buen punto de partida para encontrar más artículos). Jedwab, R., Kerby, E. and Moradi, A. (2017), History, Path Dependence and Development: Evidence from Colonial Railways, Settlers and Cities in Kenya, Economic Journal, 127(603), 1467-1494. Michalopoulos, S. and Papaioannou, E. (2016), The Long-Run Effects of the Scramble for Africa, American Economic Review, 106(7), 1802-1848.
 :::
 
 ## Para la próxima reunión
@@ -419,7 +191,7 @@ Quiero tu **revisión de la literatura**: **1.500–2.500 palabras**.
 - [ ] **Enviármelo todo antes del viernes 22 de enero**
 
 ::: notes
-La revisión de la literatura es lo principal: que compare los artículos, los agrupe por mecanismo o por método y acabe en el hueco que cubrirá tu TFG (el ejemplo de Nunn y Qian y la síntesis de hoy son el modelo). Si dudas entre los dos temas, haz la comprobación de datos para los dos: suele decidir la elección. El índice provisional puede ser corto: capítulos y una línea sobre qué va en cada uno. Extensión orientativa: 1.500–2.500 palabras (en torno al 20% de un TFG de 8.000–10.000). El 22 de enero es la fecha interna de «literatura y datos» que vimos en la primera reunión.
+La revisión de la literatura es lo principal: que compare los artículos, los agrupe por mecanismo o por método y acabe en el hueco que cubrirá tu TFG (el ejemplo de hoy es el modelo). Si dudas entre los dos temas, haz la comprobación de datos para los dos: suele decidir la elección. El índice provisional puede ser corto: capítulos y una línea sobre qué va en cada uno. Extensión orientativa: 1.500–2.500 palabras (en torno al 20% de un TFG de 8.000–10.000). El 22 de enero es la fecha interna de «literatura y datos» que vimos en la primera reunión.
 :::
 
 # ¿Preguntas? {background-color="#40666e"}
