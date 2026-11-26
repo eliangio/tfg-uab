@@ -143,4 +143,122 @@ Las dos opciones valen para un TFG. Lo importante es que la pregunta y el métod
 Es la decisión de método más importante después de elegir tema. Una comparación de dos países describe; para acercarse a una causa hace falta comparar unidades parecidas dentro del mismo país, que es lo que hacen Jedwab, Kerby y Moradi en Kenia (celdas con línea de tren frente a celdas vecinas sin ella) y Miguel (comunidades dentro de dos distritos). Un TFG descriptivo bien hecho es mejor que uno causal con supuestos que no se sostienen.
 :::
 
+## De un tema a una pregunta
+
+::: {.steps}
+::: {.step}
+[1]{.n}
+[Exposición]{.t}
+
+- Línea de tren colonial
+- Frontera que parte un grupo
+:::
+::: {.step}
+[2]{.n}
+[Resultado]{.t}
+
+- Población urbana, actividad económica
+- Conflicto, desarrollo
+:::
+::: {.step}
+[3]{.n}
+[Geografía]{.t}
+
+- Kenia, Ghana o una región
+- Grupos étnicos de África
+:::
+::: {.step}
+[4]{.n}
+[Periodo]{.t}
+
+- De la colonia a hoy
+- De la partición a hoy
+:::
+:::
+
+::: {.callout-tip title="Una buena pregunta dice…"}
+**Qué** exposición, **sobre qué** resultado, **dónde** y **cuándo**. Hasta que no tiene las cuatro cosas, sigue siendo un tema.
+:::
+
+::: notes
+Cada tema se estrecha eligiendo estas cuatro piezas. Primera fila de cada columna: tema 1; segunda: tema 2. La geografía y el periodo dependen de dónde haya datos (lo vemos en la parte de datos). Cuanto más acotada la pregunta, más fácil es que el TFG quepa en 8.000–10.000 palabras.
+:::
+
+## Ejemplos de preguntas
+
+| Tema | Pregunta de ejemplo | Tipo |
+|-----------|--------------------------------------------------------|-----------|
+| Ferrocarriles | ¿Las zonas de Kenia (o Ghana) conectadas por el ferrocarril colonial concentran hoy más población urbana y actividad económica que zonas comparables sin ferrocarril? | Más causal |
+| Ferrocarriles | ¿Cómo difieren hoy la urbanización y la actividad económica en torno a las líneas coloniales de Kenia y de Tanzania, y qué explicaciones caben? | Descriptiva |
+| Fronteras | ¿Los grupos étnicos divididos por fronteras coloniales presentan hoy más conflicto o menor desarrollo que los no divididos? | Más causal |
+| Fronteras | ¿Se diferencia la actividad económica en el territorio de los ewes (Ghana, Togo y Benín) de la de los grupos vecinos que no están divididos? | Descriptiva |
+
+::: {.small .muted}
+Son ilustraciones, no preguntas impuestas: la pregunta la formulas tú.
+:::
+
+::: notes
+Son ejemplos para ver el nivel de concreción, no una lista cerrada. Las dos «más causales» comparan unidades parecidas dentro de un mismo marco (zonas con y sin línea; grupos divididos y no divididos). Las «descriptivas» son más fáciles de defender con pocos supuestos. Cualquiera puede cambiar de país, de resultado o de periodo.
+:::
+
+## Datos (1/2): los archivos de réplica
+
+| Qué | Fuente | Geografía | Acceso |
+|---------------|-----------------------|-------------------|------------------|
+| Ferrocarriles y ciudades | Jedwab y Moradi (2016) | Ghana y gran parte de África | [Harvard Dataverse](https://doi.org/10.7910/DVN/29908), abierto |
+| Ferrocarriles, colonos y ciudades | Jedwab, Kerby y Moradi (2017) | Kenia | Por localizar: revista o web de los autores |
+| Territorios étnicos y fronteras | Michalopoulos y Papaioannou (2016) | África | [Página del artículo en la AEA](https://www.aeaweb.org/articles?id=10.1257/aer.20131311) («Replication Package») |
+
+<!-- TODO: verify. Jedwab, Kerby y Moradi (2017): no se ha localizado un archivo de réplica público (ni en Harvard Dataverse ni en la web del artículo); comprobar la web de la revista y la de los autores. -->
+<!-- TODO: verify. Michalopoulos y Papaioannou (2016): la página de la AEA lista un «Replication Package»; falta abrirlo y comprobar que incluye los datos y no solo el código. -->
+
+::: {.callout-important title="Antes de elegir tema"}
+Comprueba que los archivos de réplica **se descargan y se abren**.
+:::
+
+::: notes
+Jedwab y Moradi (2016): la réplica está en Harvard Dataverse (doi 10.7910/DVN/29908), con licencia CC0; hay un único archivo. Michalopoulos y Papaioannou: la página del artículo en la AEA enumera un paquete de réplica; el proyecto equivalente en openICPSR muestra código, así que hay que abrirlo para ver si incluye los datos. De Jedwab, Kerby y Moradi (2017) no he encontrado un archivo de réplica público: pregúntate si hace falta escribir a los autores. Es justo lo que quiero que compruebes tú antes de la próxima reunión.
+:::
+
+## Datos (2/2): resultados y controles
+
+| Variable | Fuente | Geografía | Acceso |
+|---------------|-------------------|-------------------|------------------|
+| Actividad económica (aproximada) | Luces nocturnas, [Earth Observation Group](https://eogdata.mines.edu/products/vnl/) | Mundial, por celdas | Descarga gratuita |
+| Actitudes y confianza | [Afrobarometer](https://www.afrobarometer.org/data/) | Encuestas por país y ronda | Gratuita; los datos georreferenciados, por solicitud |
+| Nivel de vida | [Encuestas DHS](https://dhsprogram.com/data/) | Encuestas por país | Gratuita con registro |
+| Conflicto | [ACLED](https://acleddata.com/) | Eventos georreferenciados | Con registro; el nivel de acceso depende del usuario |
+| Población urbana | [Africapolis](https://africapolis.org/) o censos | Ciudades y aglomeraciones | Comprobar la descarga |
+
+<!-- TODO: verify. DHS: comprobar que el acceso a los datos funciona ahora mismo (una consulta anterior mostraba un aviso de pausa del programa). -->
+<!-- TODO: verify. ACLED: el modelo de acceso cambió en 2025 (niveles de usuario); comprobar qué nivel corresponde a un estudiante y si los datos recientes llevan retraso. -->
+<!-- TODO: verify. Africapolis: comprobar qué versión se puede descargar (cobertura, años) y en qué formato. -->
+
+::: notes
+Las luces nocturnas sirven de aproximación a la actividad económica donde faltan datos oficiales por región. Para cada fuente comprueba el nivel geográfico, los años y las condiciones de acceso. Afrobarometer: datos fusionados por ronda, descarga libre; los datos con coordenadas necesitan solicitud. DHS: registro gratuito y solicitud; el acceso ha tenido interrupciones, así que conviene comprobarlo pronto. ACLED: registro en myACLED, con distintos niveles de acceso. Luces nocturnas: hay una serie más antigua (DMSP-OLS) y una más reciente (VIIRS); las dos tienen distinta resolución y no se encadenan sin cuidado.
+:::
+
+## Reutilizar y ampliar
+
+::: {.columns}
+::: {.column width="50%"}
+::: {.callout-important title="Primero"}
+Descarga y **abre** los archivos de réplica antes de elegir tema.
+:::
+:::
+::: {.column width="50%"}
+::: {.callout-tip title="Después"}
+Un TFG puede **reutilizar** datos publicados y **ampliarlos**:
+
+- otro **país**
+- un periodo **más reciente**
+- otro **resultado**
+:::
+:::
+:::
+
+::: notes
+Reutilizar una base publicada no es copiar: replicar un resultado, y después ampliarlo, es una forma estupenda de hacer un TFG viable. Por ejemplo, llevar el diseño de Jedwab y Moradi (Ghana) a otro país con datos parecidos, o añadir un resultado nuevo (luces nocturnas, conflicto) a la base de Michalopoulos y Papaioannou.
+:::
+
 # ¿Preguntas? {background-color="#40666e"}
