@@ -6,8 +6,9 @@ Quarto (reveal.js) slides for the meetings with TFG students (Facultat d'Economi
 |---|---|---|
 | 1. General guidance | `index.qmd` | `index-en.qmd` |
 | 2. Housing (student 1) | `housing.qmd` | `housing-en.qmd` |
+| 2. Colonial history (student 2) | `colonial.qmd` | (Spanish only) |
 
-Each title slide links to the other version.
+Each title slide links to the other version, except `colonial.qmd`, which has no English version.
 
 ## Files
 
